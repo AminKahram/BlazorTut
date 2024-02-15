@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlazorEcoomer_Server/1.0.0": {
+        "dependencies": {
+          "Ecommers.Core": "1.0.0"
+        },
+        "runtime": {
+          "BlazorEcoomer_Server.dll": {}
+        }
+      },
+      "Ecommers.Core/1.0.0": {
+        "runtime": {
+          "Ecommers.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorEcoomer_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecommers.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

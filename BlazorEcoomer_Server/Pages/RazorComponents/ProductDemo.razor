@@ -1,0 +1,85 @@
+﻿@page "/RazorComponents/ProductDemo"
+<h3>ProductDemo</h3>
+<div class="row">
+    @foreach (var prod in lstProduct)
+    {
+        <div class="col-auto border p-3">
+            <h4>@prod.ID</h4>
+            Name : @prod.Name<br />
+            Show Properties : <input type="checkbox" @bind="prod.ShowProperty" /><br />
+            @if (prod.ShowProperty)
+            {
+                foreach (var prodProp in prod.ProductsProps)
+                {
+                    <div>@prodProp.Key - @prodProp.Value </div>
+                }
+            }
+            <button class="btn btn-success">Edit</button>
+            <button class="btn btn-danger">Edit</button>
+        </div>
+    }
+</div>
+
+@code {
+    List<Product> lstProduct = new();
+    
+    protected override async Task OnInitializedAsync()
+    {
+        lstProduct.Add(new Product
+            {
+                ID = 1,
+                Name = "TesterProduct 2",
+                IsActive = true,
+                Price = 10.5,
+                ProductsProps = new List<ProductsProp>
+                {
+                    new ProductsProp
+                    {
+                        ID = 1,
+                        Key = "Color",
+                        Value = "Black"
+                    },
+                    new ProductsProp
+                    {
+                        ID = 2,
+                        Key = "Size",
+                        Value = "20 OZ"
+                    },new ProductsProp
+                    {
+                        ID = 3,
+                        Key = "Flavor",
+                        Value = "Blackberry"
+                    },
+                }
+            });
+        lstProduct.Add(new Product
+            {
+                ID = 1,
+                Name = "TesterProduct 1",
+                IsActive = true,
+                Price = 100.5,
+                ProductsProps = new List<ProductsProp>
+            {
+                new ProductsProp
+                {
+                    ID = 1,
+                    Key = "Color",
+                    Value = "white"
+                },
+                new ProductsProp
+                {
+                    ID = 2,
+                    Key = "Size",
+                    Value = "60 x 90"
+                },new ProductsProp
+                {
+                    ID = 3,
+                    Key = "Flavor",
+                    Value = "Test"
+                },
+            }
+            });
+         await Task.CompletedTask;
+    }
+
+}

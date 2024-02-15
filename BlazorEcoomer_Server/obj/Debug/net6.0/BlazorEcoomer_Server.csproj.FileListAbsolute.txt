@@ -6,6 +6,9 @@ D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\BlazorEcoo
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\BlazorEcoomer_Server.runtimeconfig.json
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\BlazorEcoomer_Server.dll
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\BlazorEcoomer_Server.pdb
+D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\Ecommers.Core.dll
+D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\Ecommers.Core.pdb
+D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.csproj.AssemblyReference.cache
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.GeneratedMSBuildEditorConfig.editorconfig
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.AssemblyInfoInputs.cache
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.AssemblyInfo.cs
@@ -24,12 +27,9 @@ D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\scopedcss\
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\scopedcss\bundle\BlazorEcoomer_Server.styles.css
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\scopedcss\projectbundle\BlazorEcoomer_Server.bundle.scp.css
+D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.csproj.CopyComplete
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.dll
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\refint\BlazorEcoomer_Server.dll
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.pdb
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.genruntimeconfig.cache
 D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\ref\BlazorEcoomer_Server.dll
-D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\Ecommers.Core.dll
-D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\bin\Debug\net6.0\Ecommers.Core.pdb
-D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.csproj.AssemblyReference.cache
-D:\Rezomeh\Blazor\BlazorEcommer\BlazorEcoomer_Server\obj\Debug\net6.0\BlazorEcoomer_Server.csproj.CopyComplete

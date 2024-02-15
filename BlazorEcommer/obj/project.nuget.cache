@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0+NkXVwPMSgLUxzau/dW8++jMr2JbGHAhD28ghp2BASgXsawY3tJArYR2uJOFSXmgAZNMCTqp25xuwvrUqnBQw==",
+  "dgSpecHash": "ZhyzLovabezVbUMx/zlsNazlCB3l5dJ2B/0QI8isGNZpyC6jURfkeVmEk04d0ZqJEn016uaSrssE4RwkMh9hnw==",
   "success": true,
   "projectFilePath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\BlazorEcommer_Client.csproj",
   "expectedPackageFiles": [
@@ -28,11 +28,14 @@
     "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\microsoft.jsinterop\\6.0.22\\microsoft.jsinterop.6.0.22.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.22\\microsoft.jsinterop.webassembly.6.0.22.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.2\\microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\Amin\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\Amin\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }

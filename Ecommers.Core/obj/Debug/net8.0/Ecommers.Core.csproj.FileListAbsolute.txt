@@ -1,0 +1,12 @@
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\bin\Debug\net8.0\Ecommers.Core.deps.json
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\bin\Debug\net8.0\Ecommers.Core.dll
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\bin\Debug\net8.0\Ecommers.Core.pdb
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\Ecommers.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\Ecommers.Core.AssemblyInfoInputs.cache
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\Ecommers.Core.AssemblyInfo.cs
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\Ecommers.Core.csproj.CoreCompileInputs.cache
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\Ecommers.Core.sourcelink.json
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\Ecommers.Core.dll
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\refint\Ecommers.Core.dll
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\Ecommers.Core.pdb
+D:\Rezomeh\Blazor\BlazorEcommer\Ecommers.Core\obj\Debug\net8.0\ref\Ecommers.Core.dll
