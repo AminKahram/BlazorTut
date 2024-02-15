@@ -5,23 +5,60 @@ Action : @Product.IsActive <br />
 Price : @Product.Price
 <br />
 
-The Product Is: @(Product.IsActive ? "Active" : "In Active")
-<br />
 
+The Product Is : @(Product.IsActive ? "Active" : "In Active")
+<br />
+@if(!string.IsNullOrEmpty(SelectedProperty))
+{
+    <p>Selected Property : @SelectedProperty </p>
+    <p>Selected Property Value : @Product.ProductsProps.FirstOrDefault(p => p.Key == SelectedProperty).Value </p>
+
+}
+<select @bind="@SelectedProperty">
+    @foreach (var prodProp in Product.ProductsProps)
+    {
+        <option value="@prodProp.Key">
+            @prodProp.Key
+        </option>
+    }
+</select>
+
+<br />
 <input type="number" @bind="@Product.Price" @bind:event="oninput" />
 <br />
 Is Active : <input type="checkbox" @bind="@Product.IsActive" @bind:event="onchange" />
 <br />
-
 <br />
 
 
 @code {
-    Ecommers.Core.Models.Product Product = new()
+    public string SelectedProperty = "";
+    Product Product = new()
     {
         ID = 1,
         Name = "TesterProduct 1",
         IsActive = true,
-        Price = 0.5
+        Price = 0.5,
+            ProductsProps = new List<ProductsProp>
+            {
+                new ProductsProp
+                {
+                    ID = 1,
+                    Key = "Color",
+                    Value = "Red"
+                },
+                new ProductsProp
+                {
+                    ID = 2,
+                    Key = "Size",
+                    Value = "20 x 10"
+                },new ProductsProp
+                {
+                    ID = 3,
+                    Key = "Flavor",
+                    Value = "Rose"
+                },
+            }
+        
     };
 }
