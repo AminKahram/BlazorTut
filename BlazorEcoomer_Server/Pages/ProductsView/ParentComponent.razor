@@ -1,11 +1,18 @@
 ﻿@page "/RazorComponents/ParentComponent"
-<_ChildComponent Title="This is a Test">
+
+<_ChildComponent Title="This is a Test" ShowMassage="ShowMassage">
     Testing FragmentRender
 </_ChildComponent>
 
-<_ChildComponent Title="This is a Test">
+    <p>@Massage</p>
+<_ChildComponent Title="This is a Test" ShowMassage="ShowMassage">
    
 </_ChildComponent>
-@code {
 
+@code {
+    private string Massage = "";
+    private void ShowMassage()
+    {
+        Massage = "This is massage to show void event call back";
+    }
 }

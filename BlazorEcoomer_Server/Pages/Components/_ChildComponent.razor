@@ -9,11 +9,18 @@
         </div>
     }
 </div>
-
+<button class="btn btn-danger" @onclick="ShowSomeMassage">Alert</button>
 
 @code {
     [Parameter]
     public string Title { get; set; }
     [Parameter]
     public RenderFragment ChildContent { get; set; }
+    [Parameter]
+    public EventCallback ShowMassage { get; set; }
+
+    protected async Task ShowSomeMassage()
+    {
+        await ShowMassage.InvokeAsync();
+    }
 }
