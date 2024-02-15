@@ -1,44 +1,55 @@
 ﻿@page "/RazorComponents/Products"
-<h3>Products</h3>
-Product Name : @Product.Name <br />
-Action : @Product.IsActive <br />
-Price : @Product.Price
-<br />
+<div class="row">
+    <div class="col-6 border p-3">
+        <h3>Products Playground</h3>
+
+        <div>
+            <select @bind="@SelectedProperty">
+                @foreach (var prodProp in Product.ProductsProps)
+                {
+                    <option value="@prodProp.Key">
+                        @prodProp.Key
+                    </option>
+                }
+            </select>
+            <br />
+        </div>
+        <div>
+            Price :
+            <input type="number" @bind="@Product.Price" @bind:event="oninput" />
+            <br />
+        </div>
+        <div>
+            Is Active :
+            <input type="checkbox" @bind="@Product.IsActive" @bind:event="onchange" />
+            <br />
+        </div>
+    </div>
+    <div class="col-6 border p-3">
+        <h3>Products Summery</h3>
+        Product Name : @Product.Name<br />
+        Action : @Product.IsActive<br />
+        Price : @Product.Price<br />
+        The Product Is : @(Product.IsActive ? "Active" : "In Active")<br />
+        @if (!string.IsNullOrEmpty(SelectedProperty))
+        {
+            <p>Selected Property : @SelectedProperty </p>
+            <p>Selected Property Value : @Product.ProductsProps.FirstOrDefault(p => p.Key == SelectedProperty).Value </p>
+        }
+    </div>
+</div>
 
 
-The Product Is : @(Product.IsActive ? "Active" : "In Active")
-<br />
-@if(!string.IsNullOrEmpty(SelectedProperty))
-{
-    <p>Selected Property : @SelectedProperty </p>
-    <p>Selected Property Value : @Product.ProductsProps.FirstOrDefault(p => p.Key == SelectedProperty).Value </p>
-
-}
-<select @bind="@SelectedProperty">
-    @foreach (var prodProp in Product.ProductsProps)
-    {
-        <option value="@prodProp.Key">
-            @prodProp.Key
-        </option>
-    }
-</select>
-
-<br />
-<input type="number" @bind="@Product.Price" @bind:event="oninput" />
-<br />
-Is Active : <input type="checkbox" @bind="@Product.IsActive" @bind:event="onchange" />
-<br />
-<br />
 
 
 @code {
     public string SelectedProperty = "";
     Product Product = new()
-    {
-        ID = 1,
-        Name = "TesterProduct 1",
-        IsActive = true,
-        Price = 0.5,
+        {
+            ID = 1,
+            Name = "TesterProduct 1",
+            IsActive = true,
+            Price = 0.5,
             ProductsProps = new List<ProductsProp>
             {
                 new ProductsProp
@@ -59,6 +70,6 @@ Is Active : <input type="checkbox" @bind="@Product.IsActive" @bind:event="onchan
                     Value = "Rose"
                 },
             }
-        
-    };
+
+        };
 }
