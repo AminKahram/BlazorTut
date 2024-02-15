@@ -2,6 +2,12 @@
     <div class="alert alert-info">
         @Title
     </div>
+    @if (DangerContent != null)
+    {
+        <div class="alert alert-secondary">
+            @DangerContent
+        </div>
+    }
     @if (ChildContent != null)
     {
         <div class="alert alert-secondary">
@@ -9,7 +15,7 @@
         </div>
     }
 </div>
-<button class="btn btn-danger" @onclick="ShowSomeMassage">Alert</button>
+<button class="btn btn-danger" @onclick="ShowMassage">Alert</button>
 
 @code {
     [Parameter]
@@ -17,10 +23,9 @@
     [Parameter]
     public RenderFragment ChildContent { get; set; }
     [Parameter]
+    public RenderFragment DangerContent { get; set; }
+    [Parameter]
     public EventCallback ShowMassage { get; set; }
 
-    protected async Task ShowSomeMassage()
-    {
-        await ShowMassage.InvokeAsync();
-    }
+    
 }
