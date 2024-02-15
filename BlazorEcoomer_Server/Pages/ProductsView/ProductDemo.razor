@@ -7,15 +7,15 @@
         <div class="col-auto border p-3">
             <h4>@prod.ID</h4>
             Name : @prod.Name<br />
-            Show Properties : <input type="checkbox" @bind="prod.ShowProperty" /><br />
-            @if (prod.ShowProperty)
+            Show Properties : <input type="checkbox" @bind="prod.IsActive" /><br />
+            @if (prod.IsActive)
             {
                 foreach (var prodProp in prod.ProductsProps)
                 {
                     <div>@prodProp.Key - @prodProp.Value </div>
                 }
             }
-            <_EditDeleteButton></_EditDeleteButton>
+            <_EditDeleteButton IsActive="@prod.IsActive"></_EditDeleteButton>
         </div>
     }
 </div>

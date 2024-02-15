@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\productsview\\productdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\components\\_editdeletebutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\components\\_editdeletebutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.core\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|solutionrelative:ecommers.core\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\components\\_editdeletebutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\components\\_editdeletebutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,16 +26,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_EditDeleteButton.razor",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Components\\_EditDeleteButton.razor",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Components\\_EditDeleteButton.razor",
               "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Components\\_EditDeleteButton.razor",
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Components\\_EditDeleteButton.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-15T14:38:43.764Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommers.Core\\Models\\Products\\Product.cs",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Products\\Product.cs",
+              "RelativeToolTip": "Ecommers.Core\\Models\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:24:01.349Z",
               "EditorCaption": ""
             },
             {
@@ -52,25 +65,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Products\\Product.cs",
-              "RelativeDocumentMoniker": "Ecommers.Core\\Models\\Products\\Product.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Products\\Product.cs",
-              "RelativeToolTip": "Ecommers.Core\\Models\\Products\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T14:24:01.349Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductDemo.razor",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\ProductsView\\ProductDemo.razor",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\ProductsView\\ProductDemo.razor",
               "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\ProductsView\\ProductDemo.razor",
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\ProductsView\\ProductDemo.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-15T14:17:59.302Z",
               "EditorCaption": ""
