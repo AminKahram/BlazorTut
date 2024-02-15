@@ -2,13 +2,14 @@
 @using BlazorEcoomer_Server.Pages.ProductsView.Components;
 <h3>ProductDemo</h3>
 <div class="row">
-    <h4>favorite products : @SelectedfavoriteProduct</h4>
+    <h4>Favorite products : @selectedFavoriteProduct</h4>
+    <h4>Selected products : @selectedProduct</h4>
 </div>
 <div class="row">
 
     @foreach (var prod in lstProduct)
     {
-        <_ProductComponent product="@prod" FavoriteProductUpdate="@FavoriteProductUpdate">
+        <_ProductComponent product="@prod" FavoriteProductUpdate="@FavoriteProductUpdate" ProductNameUpdate="@ProductNameUpdate">
 
         </_ProductComponent>
     }
@@ -16,7 +17,8 @@
 
 @code {
     List<Product> lstProduct = new();
-    public int SelectedfavoriteProduct { get; set; } = 0;
+    public int selectedFavoriteProduct { get; set; } = 0;
+    public string selectedProduct { get; set; }
     protected override async Task OnInitializedAsync()
     {
         lstProduct.Add(new Product
@@ -75,11 +77,15 @@
             });
         await Task.CompletedTask;
     }
+    protected void ProductNameUpdate(string productName)
+    {
+        selectedProduct = productName;
+    }
     protected void FavoriteProductUpdate(bool isSelected)
     {
         if (isSelected)
-            SelectedfavoriteProduct++;
+            selectedFavoriteProduct++;
         else
-            SelectedfavoriteProduct--;
+            selectedFavoriteProduct--;
     }
 }

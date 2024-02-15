@@ -1,4 +1,4 @@
-﻿<div class="col-auto border p-3">
+﻿<div class="col-auto border p-3" @onclick="@(e => ChangeSelectedProductName(product.Name))">
     <h4>@product.ID</h4>
     Name : @product.Name<br />
     Show Properties : <input type="checkbox" @bind="product.IsActive" /><br />
@@ -18,9 +18,16 @@
     public Product product { set; get; }
     [Parameter]
     public EventCallback<bool> FavoriteProductUpdate { get; set; }
+    [Parameter]
+    public EventCallback<string> ProductNameUpdate { get; set; }
 
+    protected async Task ChangeSelectedProductName(string productName/* MouseEventArgs e */)
+    {
+        await ProductNameUpdate.InvokeAsync(productName);
+    }
     protected async Task ChangeFavoriteProductCount(ChangeEventArgs e)
     {
        await FavoriteProductUpdate.InvokeAsync((bool)e.Value);
     }
 }
+ 
