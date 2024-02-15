@@ -1,0 +1,18 @@
+﻿@page "/RazorComponents/Products"
+<h3>Products</h3>
+Product Name : @Product.Name <br />
+Action : @Product.IsActive <br />
+
+<input type="number" @bind-value="@Product.Price"  @bind-value:event="oninput" />
+Price : @Product.Price
+<br />
+
+@code {
+    Ecommers.Core.Models.Product Product = new()
+    {
+        ID = 1,
+        Name = "TesterProduct 1",
+        IsActive = true,
+        Price = 0.5
+    };
+}

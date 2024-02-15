@@ -9,8 +9,8 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorEcommer.styles.css",
-      "PackagePath": "staticwebassets\\BlazorEcommer.styles.css"
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorEcommer_Client.styles.css",
+      "PackagePath": "staticwebassets\\BlazorEcommer_Client.styles.css"
     },
     {
       "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\app.css",
@@ -77,20 +77,20 @@
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorEcommer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorEcommer_Client.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorEcommer.props",
-      "PackagePath": "build\\BlazorEcommer.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorEcommer_Client.props",
+      "PackagePath": "build\\BlazorEcommer_Client.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorEcommer.props",
-      "PackagePath": "buildMultiTargeting\\BlazorEcommer.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorEcommer_Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorEcommer_Client.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorEcommer.props",
-      "PackagePath": "buildTransitive\\BlazorEcommer.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorEcommer_Client.props",
+      "PackagePath": "buildTransitive\\BlazorEcommer_Client.props"
     }
   ],
   "ElementsToRemove": []

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gIenNWn0eHTdJcuNLqNLrVCRt4JaDdgUTJwdqckSGipGoYK8PbZIP7fu006thO6DusAdXlByzdqiQy7xC3+qhA==",
+  "dgSpecHash": "0+NkXVwPMSgLUxzau/dW8++jMr2JbGHAhD28ghp2BASgXsawY3tJArYR2uJOFSXmgAZNMCTqp25xuwvrUqnBQw==",
   "success": true,
-  "projectFilePath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\BlazorEcommer.csproj",
+  "projectFilePath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\BlazorEcommer_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.22\\microsoft.aspnetcore.authorization.6.0.22.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.22\\microsoft.aspnetcore.components.6.0.22.nupkg.sha512",

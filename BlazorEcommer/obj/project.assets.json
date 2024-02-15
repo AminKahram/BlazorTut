@@ -1768,9 +1768,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\BlazorEcommer.csproj",
-      "projectName": "BlazorEcommer",
-      "projectPath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\BlazorEcommer.csproj",
+      "projectUniqueName": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\BlazorEcommer_Client.csproj",
+      "projectName": "BlazorEcommer_Client",
+      "projectPath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\BlazorEcommer_Client.csproj",
       "packagesPath": "C:\\Users\\Amin\\.nuget\\packages\\",
       "outputPath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\",
       "projectStyle": "PackageReference",

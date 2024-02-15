@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "BlazorEcommer",
+  "entryAssembly": "BlazorEcommer_Client",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-A6wItfWPxWCE3EJL\/iV+cnIsrbk4EUvtmnEArytjGXI=",
       "netstandard.dll": "sha256-tRd8cJrm2jrfdHVAhxop4KpXsOTSdIq390XUlbKeE9U=",
       "System.Private.CoreLib.dll": "sha256-srLiFzlxO2Mt3CHpnujmljIUDZTd01TPKPNZ61tQplc=",
-      "BlazorEcommer.dll": "sha256-brRQykybMLbBFw6U05HgepVghbHWLxOKUd5NMTWwPvE="
+      "BlazorEcommer_Client.dll": "sha256-Mu7syCXLTbmeoCpNKgwZ79g48MkzVc+qDSJZ9NegYV4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorEcommer.pdb": "sha256-Ukf9cgd2OfurOm+xNvuHr8tjQz8Qn9uN90MCcALvXqc="
+      "BlazorEcommer_Client.pdb": "sha256-w33pOiOyy27n30rKw4SXb2VFZ\/WbXDAsCodnoq3VJKg="
     },
     "runtime": {
       "dotnet.6.0.23.if85c14r78.js": "sha256-ZwZyyu2NI0gFyE96Al4f0bglhDBXW\/uMhBqWLYgjWms=",

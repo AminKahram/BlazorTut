@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorEcommer", "BlazorEcommer\BlazorEcommer.csproj", "{19B195E6-F8C5-4134-9AB5-F51062E43D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorEcommer_Client", "BlazorEcommer\BlazorEcommer_Client.csproj", "{19B195E6-F8C5-4134-9AB5-F51062E43D17}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorEcoomer_Server", "BlazorEcoomer_Server\BlazorEcoomer_Server.csproj", "{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommers.Core", "Ecommers.Core\Ecommers.Core.csproj", "{E1952479-F825-49E4-AF32-F543C371FC80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1952479-F825-49E4-AF32-F543C371FC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1952479-F825-49E4-AF32-F543C371FC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1952479-F825-49E4-AF32-F543C371FC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1952479-F825-49E4-AF32-F543C371FC80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

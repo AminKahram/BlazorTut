@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "Hash": "Zx3o2toNnIOxANficu0uY1TvXC8PqqE6K8ZUyZ6lOGI=",
-  "Source": "BlazorEcommer",
+  "Hash": "hHd3reuVJibSBzuayp9hyasNnFZSk0oYlVwdbkYDkdI=",
+  "Source": "BlazorEcommer_Client",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "BlazorEcommer\\wwwroot",
-      "Source": "BlazorEcommer",
+      "Name": "BlazorEcommer_Client\\wwwroot",
+      "Source": "BlazorEcommer_Client",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
@@ -18,7 +18,7 @@
   "Assets": [
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -35,7 +35,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.22\\build\\net6.0\\blazor.webassembly.js"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer.dll",
-      "SourceId": "BlazorEcommer",
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer_Client.dll",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorEcommer.dll",
+      "RelativePath": "_framework/BlazorEcommer_Client.dll",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net6.0\\BlazorEcommer.dll"
+      "OriginalItemSpec": "obj\\Debug\\net6.0\\BlazorEcommer_Client.dll"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer.pdb",
-      "SourceId": "BlazorEcommer",
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer_Client.pdb",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorEcommer.pdb",
+      "RelativePath": "_framework/BlazorEcommer_Client.pdb",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,11 +82,11 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net6.0\\BlazorEcommer.pdb"
+      "OriginalItemSpec": "obj\\Debug\\net6.0\\BlazorEcommer_Client.pdb"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.23.if85c14r78.js",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -103,7 +103,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.timezones.blat",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -120,7 +120,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.wasm",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -137,7 +137,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -154,7 +154,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -171,7 +171,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -188,7 +188,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -205,7 +205,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -222,7 +222,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -239,7 +239,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -256,7 +256,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -273,7 +273,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -290,7 +290,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -307,7 +307,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -324,7 +324,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -341,7 +341,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -358,7 +358,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -375,7 +375,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -392,7 +392,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -409,7 +409,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -426,7 +426,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -443,7 +443,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -460,7 +460,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -477,7 +477,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -494,7 +494,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -511,7 +511,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -528,7 +528,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -545,7 +545,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -562,7 +562,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -579,7 +579,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -596,7 +596,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -613,7 +613,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -630,7 +630,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -647,7 +647,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -664,7 +664,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\mscorlib.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -681,7 +681,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -698,7 +698,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.AppContext.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -715,7 +715,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Buffers.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -732,7 +732,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -749,7 +749,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -766,7 +766,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Immutable.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -783,7 +783,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.NonGeneric.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -800,7 +800,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Specialized.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -817,7 +817,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -834,7 +834,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -851,7 +851,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -868,7 +868,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -885,7 +885,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -902,7 +902,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -919,7 +919,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -936,7 +936,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Console.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -953,7 +953,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Core.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -970,7 +970,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.Common.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -987,7 +987,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1004,7 +1004,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1021,7 +1021,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1038,7 +1038,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Debug.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1055,7 +1055,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1072,7 +1072,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1089,7 +1089,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Process.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1106,7 +1106,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1123,7 +1123,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1140,7 +1140,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Tools.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1157,7 +1157,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1174,7 +1174,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1191,7 +1191,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1208,7 +1208,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1225,7 +1225,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1242,7 +1242,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Dynamic.Runtime.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1259,7 +1259,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Formats.Asn1.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1276,7 +1276,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Calendars.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1293,7 +1293,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1310,7 +1310,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Extensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1327,7 +1327,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1344,7 +1344,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1361,7 +1361,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.FileSystem.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1378,7 +1378,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.ZipFile.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1395,7 +1395,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1412,7 +1412,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1429,7 +1429,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1446,7 +1446,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1463,7 +1463,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1480,7 +1480,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1497,7 +1497,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1514,7 +1514,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1531,7 +1531,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1548,7 +1548,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1565,7 +1565,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1582,7 +1582,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1599,7 +1599,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1616,7 +1616,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Expressions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1633,7 +1633,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Parallel.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1650,7 +1650,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Queryable.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1667,7 +1667,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1684,7 +1684,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1701,7 +1701,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1718,7 +1718,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.Json.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1735,7 +1735,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.HttpListener.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1752,7 +1752,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Mail.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1769,7 +1769,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NameResolution.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1786,7 +1786,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NetworkInformation.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1803,7 +1803,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Ping.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1820,7 +1820,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1837,7 +1837,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Quic.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1854,7 +1854,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Requests.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1871,7 +1871,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Security.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1888,7 +1888,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.ServicePoint.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1905,7 +1905,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Sockets.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1922,7 +1922,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebClient.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1939,7 +1939,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1956,7 +1956,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebProxy.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1973,7 +1973,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1990,7 +1990,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2007,7 +2007,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2024,7 +2024,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.Vectors.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2041,7 +2041,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ObjectModel.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2058,7 +2058,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.CoreLib.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2075,7 +2075,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.DataContractSerialization.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2092,7 +2092,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Runtime.InteropServices.JavaScript.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2109,7 +2109,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Uri.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2126,7 +2126,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2143,7 +2143,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.Linq.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2160,7 +2160,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.DispatchProxy.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2177,7 +2177,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2194,7 +2194,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2211,7 +2211,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2228,7 +2228,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2245,7 +2245,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Extensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2262,7 +2262,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Metadata.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2279,7 +2279,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2296,7 +2296,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2313,7 +2313,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.Reader.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2330,7 +2330,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.ResourceManager.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2347,7 +2347,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.Writer.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2364,7 +2364,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.Unsafe.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2381,7 +2381,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2398,7 +2398,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2415,7 +2415,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Extensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2432,7 +2432,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Handles.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2449,7 +2449,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.InteropServices.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2466,7 +2466,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2483,7 +2483,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2500,7 +2500,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Loader.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2517,7 +2517,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Numerics.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2534,7 +2534,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2551,7 +2551,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2568,7 +2568,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2585,7 +2585,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2602,7 +2602,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Xml.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2619,7 +2619,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.AccessControl.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2636,7 +2636,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2653,7 +2653,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2670,7 +2670,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2687,7 +2687,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2704,7 +2704,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2721,7 +2721,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2738,7 +2738,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2755,7 +2755,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2772,7 +2772,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2789,7 +2789,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2806,7 +2806,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.Windows.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2823,7 +2823,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.SecureString.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2840,7 +2840,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceModel.Web.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2857,7 +2857,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2874,7 +2874,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2891,7 +2891,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2908,7 +2908,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2925,7 +2925,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2942,7 +2942,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2959,7 +2959,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.RegularExpressions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2976,7 +2976,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Channels.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2993,7 +2993,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3010,7 +3010,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Overlapped.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3027,7 +3027,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3044,7 +3044,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3061,7 +3061,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3078,7 +3078,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3095,7 +3095,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Thread.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3112,7 +3112,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.ThreadPool.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3129,7 +3129,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Timer.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3146,7 +3146,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Transactions.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3163,7 +3163,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Transactions.Local.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3180,7 +3180,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ValueTuple.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3197,7 +3197,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Web.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3214,7 +3214,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Web.HttpUtility.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3231,7 +3231,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Windows.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3248,7 +3248,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3265,7 +3265,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Linq.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3282,7 +3282,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3299,7 +3299,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Serialization.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3316,7 +3316,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XDocument.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3333,7 +3333,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3350,7 +3350,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlSerializer.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3367,7 +3367,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3384,7 +3384,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3401,7 +3401,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\WindowsBase.dll",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3418,7 +3418,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\+7sE+WdH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3435,7 +3435,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\+f2rKUpY.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3452,7 +3452,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\+FF28oCC.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3469,7 +3469,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\+k6FINfI.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3486,7 +3486,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\+LJZG183.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3503,7 +3503,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\0vTvRbIZ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3520,7 +3520,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\1BxMsrbH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3537,7 +3537,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\2c5+4CnE.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3554,7 +3554,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\2hs+OfE2.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3571,7 +3571,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\2U1VCsgr.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3588,7 +3588,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\2waxGKlo.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3605,7 +3605,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\3AinWS8r.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3622,7 +3622,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\3QCetUiA.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3639,7 +3639,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\3VzkXSVf.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3656,7 +3656,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\3x4CYLk6.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3673,7 +3673,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\42B6KYbP.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3690,7 +3690,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4AHi392O.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3707,7 +3707,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4LyMOz3c.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3724,7 +3724,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4rF5Jgzt.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3741,7 +3741,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4tYS4tp8.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3758,7 +3758,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4W21TcoW.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3775,7 +3775,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4w7dS1DG.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3792,7 +3792,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4xAyyQuH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3809,7 +3809,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\4yFCe1QA.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3826,7 +3826,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\5+CUGBos.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3843,7 +3843,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\60x4iuLG.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3860,7 +3860,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\683QeCBH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3877,7 +3877,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\6gdysNzr.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3894,7 +3894,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\6GFlR3jB.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3911,7 +3911,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\6rv2DqVw.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3928,7 +3928,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\6tTOWbGu.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3945,7 +3945,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\7bXANJ4w.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3962,7 +3962,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\7cqQEreY.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3979,7 +3979,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\7jjumjpX.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3996,7 +3996,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\7mHQ+aSY.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4013,7 +4013,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\87r9R4na.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4030,7 +4030,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\8n1kSukj.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4047,7 +4047,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\8S5+PgkT.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4064,7 +4064,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\97Ygjqqi.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4081,7 +4081,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\9RjGQ23c.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4098,7 +4098,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\a0U+JbT+.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4115,7 +4115,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\AgGSCIFR.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4132,7 +4132,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\ak4Sky4D.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4149,7 +4149,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\AtO53sok.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4166,7 +4166,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\AUSFVnb3.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4183,7 +4183,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\b7ZozhE8.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4200,7 +4200,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\bEOL564B.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4217,7 +4217,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\BRqhzTgH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4234,7 +4234,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\brV1miFY.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4251,7 +4251,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\Bt5PgNQ1.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4268,7 +4268,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\bU3KbH01.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4285,7 +4285,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\C3ZafxQI.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4302,7 +4302,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\c8NjlknJ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4319,7 +4319,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\cAc7q6lt.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4336,7 +4336,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\cfqYafYW.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4353,7 +4353,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\CNxMAVyp.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4370,7 +4370,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\CuCU0n6j.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4387,7 +4387,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\CW3+Tlpq.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4404,7 +4404,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\CxhY80Px.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4421,7 +4421,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\D9IaCIyJ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4438,7 +4438,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\dpqsZp0s.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4455,7 +4455,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\drfsTMMl.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4472,7 +4472,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\EMEyBFMZ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4489,7 +4489,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\epPdFWWR.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4506,7 +4506,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\eSF7VaxN.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4523,7 +4523,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\EyDyj7PG.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4540,7 +4540,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\F+BUq+ZM.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4557,7 +4557,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\F71g9bg6.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4574,7 +4574,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\FJ2BSL7h.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4591,7 +4591,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\fMdtHFT8.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4608,7 +4608,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\fT7kXMq7.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4625,7 +4625,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\FUAgxKwD.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4642,7 +4642,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\fVvwUTj0.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4659,7 +4659,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\G+7aTNfR.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4676,7 +4676,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\g+s+F2rd.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4693,7 +4693,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\gcdAaT3E.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4710,7 +4710,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\GdwhCO7U.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4727,7 +4727,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\GG8NwWqd.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4744,7 +4744,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\GKGvkOzx.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4761,7 +4761,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\GKKKaM2G.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4778,7 +4778,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\gngcODRW.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4795,7 +4795,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\GTbEhpCg.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4812,7 +4812,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\gWnqUkCT.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4829,7 +4829,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\gX2G6N2B.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4846,7 +4846,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\H2XYrdi0.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4863,7 +4863,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\HAHoa8Kh.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4880,7 +4880,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\HsEi7XwT.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4897,7 +4897,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\hwPjMB2R.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4914,7 +4914,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\HzKCwhRM.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4931,7 +4931,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\i0kaxDs5.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4948,7 +4948,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\i2my6One.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4965,7 +4965,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\iCR5WDYy.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4982,7 +4982,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\IELkWibF.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4999,7 +4999,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\IGR+HUAC.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5016,7 +5016,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\iIV+WMRZ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5033,7 +5033,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\IpJhfJfM.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5050,7 +5050,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\IQrXTEdK.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5067,7 +5067,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\iy+m1XPW.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5084,7 +5084,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\J4OPRvLO.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5101,7 +5101,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\j6GRaXDd.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5118,7 +5118,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\jdYGzbxz.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5135,7 +5135,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\jPykXUkH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5152,7 +5152,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\JtOkJuPW.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5169,7 +5169,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\jwdNhJMl.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5186,7 +5186,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\JZbEIjLo.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5203,7 +5203,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\JznZG+Nn.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5220,7 +5220,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\k0ccU03R.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5237,7 +5237,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\k2G7UPjW.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5254,7 +5254,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\kdr2862U.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5271,7 +5271,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\KI+CT99P.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5288,7 +5288,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\kjbd3QqZ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5305,7 +5305,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\kNlbkmmD.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5322,7 +5322,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\krJuKY7Q.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5339,7 +5339,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\l2Jlewbm.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5356,7 +5356,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\L6x9m3di.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5373,7 +5373,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\l9EdWV7U.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5389,25 +5389,8 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Specialized.dll"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\LC0XDrsz.gz",
-      "SourceId": "BlazorEcommer",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorEcommer.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer.dll"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\liaczNuh.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5424,7 +5407,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\LTjlLGIm.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5441,7 +5424,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\lTvn09lh.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5458,7 +5441,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\ltxkEuPK.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5475,7 +5458,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\m1zIeD4K.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5492,7 +5475,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\MbLPsIaW.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5509,7 +5492,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\McGOWNWr.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5526,7 +5509,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\mkSEe8SI.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5543,7 +5526,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\MrIl3LoO.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5560,7 +5543,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\mUygikX2.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5577,7 +5560,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\mZbuSmTH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5594,7 +5577,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\N5+eOZsA.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5610,8 +5593,25 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.dll"
     },
     {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\nFPtUpyb.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorEcommer_Client.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer_Client.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer_Client.dll"
+    },
+    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\NI3DOSOQ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5628,7 +5628,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\nI4drAfM.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5645,7 +5645,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\NIhvTLOR.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5662,7 +5662,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\nMihDWgi.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5679,7 +5679,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\NXbgSjhs.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5696,7 +5696,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\o6YijPlQ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5713,7 +5713,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\owyVSPdr.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5730,7 +5730,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\P0u8G1iD.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5747,7 +5747,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\p4p7lDVS.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5764,7 +5764,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\PBbKlDWv.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5781,7 +5781,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\Pete6DVL.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5798,7 +5798,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\PwRA+RsJ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5814,8 +5814,25 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll"
     },
     {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\Q5XgBARd.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorEcommer_Client.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer_Client.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer_Client.pdb"
+    },
+    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\qc94hhgD.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5832,7 +5849,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\qeVHT50b.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5849,7 +5866,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\QIFld25b.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5866,7 +5883,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\rNEZfjMi.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5883,7 +5900,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\RV+jcUva.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5900,7 +5917,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\rxrBtexg.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5917,7 +5934,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\S1SeoII3.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5934,7 +5951,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\s8sx2XpH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5951,7 +5968,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\SqAsujmu.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5968,7 +5985,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\sUFHjYSe.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5985,7 +6002,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\sXpRaDsn.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6002,7 +6019,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\t357QUgV.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6019,7 +6036,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\T7CVXVHm.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6036,7 +6053,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\tFZmXFUV.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6053,7 +6070,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\ThFg5AHC.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6070,7 +6087,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\tiNHahUc.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6087,7 +6104,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\tSjoWDi7.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6104,7 +6121,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\TVRWzHX6.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6121,7 +6138,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\u6Yc+FEi.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6138,7 +6155,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\uHT8dSJE.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6155,7 +6172,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\Ulqfw5NT.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6172,7 +6189,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\uXRGr4Um.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6189,7 +6206,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\uyRidxlH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6206,7 +6223,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\V2QmvCoa.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6223,7 +6240,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\vdO9bZfw.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6240,7 +6257,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\vLEAAoME.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6257,7 +6274,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\VrAyGNxH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6274,7 +6291,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\vwyBxB5j.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6291,7 +6308,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\W1Oo5MkY.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6308,7 +6325,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\wAoa8PmF.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6325,7 +6342,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\WCVuz98y.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6342,7 +6359,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\WiqGGAkp.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6359,7 +6376,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\WJoLKOq1.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6376,7 +6393,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\WlmQh2X7.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6393,7 +6410,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\wpRI+9gy.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6410,7 +6427,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\X+L8iBeN.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6427,7 +6444,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\X0+HQLgz.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6444,7 +6461,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\XAUae5hA.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6461,7 +6478,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\XfVurZ24.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6478,7 +6495,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\Xmmq9ZjL.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6495,7 +6512,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\XOQB88WQ.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6512,7 +6529,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\xP0LatNP.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6529,7 +6546,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\xpn9UURH.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6546,7 +6563,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\XTFhNAz6.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6563,7 +6580,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\xYa8ONSU.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6580,7 +6597,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\xyHrm9fg.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6597,7 +6614,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\XYl1Hm8i.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6614,7 +6631,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\yex1JvO8.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6631,7 +6648,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\yl6yH4cu.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6648,7 +6665,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\ywPoV3U6.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6665,7 +6682,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\YzPf1Lgc.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6681,25 +6698,8 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.dll"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\Z6QBkx04.gz",
-      "SourceId": "BlazorEcommer",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorEcommer.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommer.pdb"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\zee9iJAr.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6716,7 +6716,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\ZEY2t0Qs.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6733,7 +6733,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\ZKlX1CnT.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6750,7 +6750,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\zugj8iP5.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6767,7 +6767,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\zw+vWwmx.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6784,7 +6784,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\build-gz\\ZZFi9j4e.gz",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6800,12 +6800,12 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorEcommer.styles.css",
-      "SourceId": "BlazorEcommer",
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorEcommer_Client.styles.css",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "/",
-      "RelativePath": "BlazorEcommer.styles.css",
+      "RelativePath": "BlazorEcommer_Client.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -6814,15 +6814,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorEcommer.styles.css"
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorEcommer_Client.styles.css"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorEcommer.bundle.scp.css",
-      "SourceId": "BlazorEcommer",
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorEcommer_Client.bundle.scp.css",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "/",
-      "RelativePath": "BlazorEcommer.bundle.scp.css",
+      "RelativePath": "BlazorEcommer_Client.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -6831,11 +6831,11 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorEcommer.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorEcommer_Client.bundle.scp.css"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\app.css",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6852,7 +6852,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6869,7 +6869,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6886,7 +6886,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6903,7 +6903,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6920,7 +6920,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6937,7 +6937,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6954,7 +6954,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6971,7 +6971,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -6988,7 +6988,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -7005,7 +7005,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -7022,7 +7022,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\css\\open-iconic\\README.md",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -7039,7 +7039,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\favicon.ico",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -7056,7 +7056,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\icon-192.png",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -7073,7 +7073,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\index.html",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
@@ -7090,7 +7090,7 @@
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "BlazorEcommer",
+      "SourceId": "BlazorEcommer_Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\wwwroot\\",
       "BasePath": "/",
