@@ -29,7 +29,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 36,
+          "DockedWidth": 38,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\ProductsView\\ProductDemo.razor",
               "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\ProductsView\\ProductDemo.razor",
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\ProductsView\\ProductDemo.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-15T14:17:59.302Z",
               "EditorCaption": ""
@@ -100,7 +100,7 @@
           ]
         },
         {
-          "DockedWidth": 20,
+          "DockedWidth": 18,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -111,7 +111,7 @@
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\ProductsView\\Components\\_ProductComponent.razor",
               "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\ProductsView\\Components\\_ProductComponent.razor",
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\ProductsView\\Components\\_ProductComponent.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-15T15:09:49.564Z",
               "EditorCaption": ""

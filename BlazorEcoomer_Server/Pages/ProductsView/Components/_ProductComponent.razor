@@ -2,6 +2,7 @@
     <h4>@product.ID</h4>
     Name : @product.Name<br />
     Show Properties : <input type="checkbox" @bind="product.IsActive" /><br />
+    <input type="checkbox" @onchange="ChangeFavoriteProductCount"/> Add to favorite<br />
     @if (product.IsActive)
     {
         foreach (var prodProp in product.ProductsProps)
@@ -15,4 +16,11 @@
 @code {
     [Parameter]
     public Product product { set; get; }
+    [Parameter]
+    public EventCallback<bool> FavoriteProductUpdate { get; set; }
+
+    protected async Task ChangeFavoriteProductCount(ChangeEventArgs e)
+    {
+       await FavoriteProductUpdate.InvokeAsync((bool)e.Value);
+    }
 }
