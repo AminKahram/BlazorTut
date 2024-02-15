@@ -27,7 +27,7 @@
     [Parameter]
     public EventCallback ShowMassage { get; set; }
 
-    [Parameter]
+    [Parameter(CaptureUnmatchedValues =true)]
     public Dictionary<string, object> TextInputAttributes { get; set; } = new Dictionary<string, object>()
     {
         {"required","required"},
