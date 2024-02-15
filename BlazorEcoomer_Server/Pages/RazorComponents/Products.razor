@@ -1,5 +1,7 @@
 ﻿@page "/RazorComponents/Products"
 <div class="row">
+    <h3 class="text-success">Individual Product</h3>
+
     <div class="col-6 border p-3">
         <h3>Products Playground</h3>
 
@@ -38,7 +40,52 @@
         }
     </div>
 </div>
+<div class="row">
+    <h3 class="text-success">Product Table</h3>
 
+    <table class="table table-active table-bordered table-hover">
+        <thead>
+            <tr>
+                <td>
+                    Product Name
+                </td>
+                <td>
+                    Product Price
+                </td>
+                <td>
+                    Is Active
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var prod in lstProduct)
+            {
+                <tr>
+                    <td>
+                        @prod.Name
+                    </td>
+                    <td>
+                        <input type="number" @bind-value="@prod.Price" @bind-value:event="oninput">
+                    </td>
+                    <td>
+                        <input type="checkbox" @bind-value="@prod.IsActive" @bind-value:event="onchange">
+                    </td>
+                </tr> 
+            }
+        </tbody>
+    </table>
+    
+</div>
+<div class="col-6 border p-3">
+    <h3>Products Summery</h3>
+    @foreach (var prod in lstProduct)
+    {
+        <p>
+            @prod.Name @prod.Price @(prod.IsActive ? "Active" : "In Active")
+        </p>
+    }
+
+</div>
 
 
 
@@ -70,6 +117,65 @@
                     Value = "Rose"
                 },
             }
-
         };
+    List<Product> lstProduct = new();
+    protected override async Task OnInitializedAsync()
+    {
+        lstProduct.Add(new Product
+            {
+                ID = 1,
+                Name = "TesterProduct 2",
+                IsActive = true,
+                Price = 10.5,
+                ProductsProps = new List<ProductsProp>
+                {
+                    new ProductsProp
+                    {
+                        ID = 1,
+                        Key = "Color",
+                        Value = "Black"
+                    },
+                    new ProductsProp
+                    {
+                        ID = 2,
+                        Key = "Size",
+                        Value = "20 OZ"
+                    },new ProductsProp
+                    {
+                        ID = 3,
+                        Key = "Flavor",
+                        Value = "Blackberry"
+                    },
+                }
+            });
+        lstProduct.Add(new Product
+            {
+                ID = 1,
+                Name = "TesterProduct 1",
+                IsActive = true,
+                Price = 100.5,
+                ProductsProps = new List<ProductsProp>
+            {
+                new ProductsProp
+                {
+                    ID = 1,
+                    Key = "Color",
+                    Value = "white"
+                },
+                new ProductsProp
+                {
+                    ID = 2,
+                    Key = "Size",
+                    Value = "60 x 90"
+                },new ProductsProp
+                {
+                    ID = 3,
+                    Key = "Flavor",
+                    Value = "Test"
+                },
+            }
+            });
+        await Task.CompletedTask;
+    }
+
 }
