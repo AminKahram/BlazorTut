@@ -1,4 +1,5 @@
 ﻿@page "/RazorComponents/ProductDemo"
+@using BlazorEcoomer_Server.Pages.Components 
 <h3>ProductDemo</h3>
 <div class="row">
     @foreach (var prod in lstProduct)
@@ -14,8 +15,7 @@
                     <div>@prodProp.Key - @prodProp.Value </div>
                 }
             }
-            <button class="btn btn-success">Edit</button>
-            <button class="btn btn-danger">Edit</button>
+            <_EditDeleteButton></_EditDeleteButton>
         </div>
     }
 </div>
