@@ -1,0 +1,18 @@
+﻿<div class="col-auto border p-3">
+    <h4>@product.ID</h4>
+    Name : @product.Name<br />
+    Show Properties : <input type="checkbox" @bind="product.IsActive" /><br />
+    @if (product.IsActive)
+    {
+        foreach (var prodProp in product.ProductsProps)
+        {
+            <div>@prodProp.Key - @prodProp.Value </div>
+        }
+    }
+    <_EditDeleteButton IsActive="@product.IsActive"></_EditDeleteButton>
+</div>
+
+@code {
+    [Parameter]
+    public Product product { set; get; }
+}

@@ -1,22 +1,12 @@
 ﻿@page "/RazorComponents/ProductDemo"
-@using BlazorEcoomer_Server.Pages.Components 
+@using BlazorEcoomer_Server.Pages.ProductsView.Components;
 <h3>ProductDemo</h3>
 <div class="row">
     @foreach (var prod in lstProduct)
     {
-        <div class="col-auto border p-3">
-            <h4>@prod.ID</h4>
-            Name : @prod.Name<br />
-            Show Properties : <input type="checkbox" @bind="prod.IsActive" /><br />
-            @if (prod.IsActive)
-            {
-                foreach (var prodProp in prod.ProductsProps)
-                {
-                    <div>@prodProp.Key - @prodProp.Value </div>
-                }
-            }
-            <_EditDeleteButton IsActive="@prod.IsActive"></_EditDeleteButton>
-        </div>
+        <_ProductComponent product="@prod">
+
+        </_ProductComponent>
     }
 </div>
 
