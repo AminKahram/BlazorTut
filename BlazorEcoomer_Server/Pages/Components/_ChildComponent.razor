@@ -16,7 +16,7 @@
     }
 </div>
 <button class="btn btn-danger" @onclick="ShowMassage">Alert</button>
-
+<input type="text" @attributes="TextInputAttributes" />
 @code {
     [Parameter]
     public string Title { get; set; }
@@ -26,6 +26,14 @@
     public RenderFragment DangerContent { get; set; }
     [Parameter]
     public EventCallback ShowMassage { get; set; }
+
+    [Parameter]
+    public Dictionary<string, object> TextInputAttributes { get; set; } = new Dictionary<string, object>()
+    {
+        {"required","required"},
+        {"placeholder","Plcae holder data from child"},
+        {"maxlength","5"}
+    };
 
     
 }
