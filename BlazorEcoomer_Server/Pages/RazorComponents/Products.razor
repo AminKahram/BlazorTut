@@ -2,10 +2,19 @@
 <h3>Products</h3>
 Product Name : @Product.Name <br />
 Action : @Product.IsActive <br />
-
-<input type="number" @bind-value="@Product.Price"  @bind-value:event="oninput" />
 Price : @Product.Price
 <br />
+
+The Product Is: @(Product.IsActive ? "Active" : "In Active")
+<br />
+
+<input type="number" @bind="@Product.Price" @bind:event="oninput" />
+<br />
+Is Active : <input type="checkbox" @bind="@Product.IsActive" @bind:event="onchange" />
+<br />
+
+<br />
+
 
 @code {
     Ecommers.Core.Models.Product Product = new()
