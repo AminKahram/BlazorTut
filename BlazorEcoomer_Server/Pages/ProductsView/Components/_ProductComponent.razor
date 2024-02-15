@@ -1,6 +1,7 @@
 ﻿<div class="col-auto border p-3" @onclick="@(e => ChangeSelectedProductName(product.Name))">
     <h4>@product.ID</h4>
     Name : @product.Name<br />
+    Parent render fragment Content : @ParentContent<br />
     Show Properties : <input type="checkbox" @bind="product.IsActive" /><br />
     <input type="checkbox" @onchange="ChangeFavoriteProductCount"/> Add to favorite<br />
     @if (product.IsActive)
@@ -20,6 +21,8 @@
     public EventCallback<bool> FavoriteProductUpdate { get; set; }
     [Parameter]
     public EventCallback<string> ProductNameUpdate { get; set; }
+    [Parameter]
+    public RenderFragment ParentContent { get; set; }
 
     protected async Task ChangeSelectedProductName(string productName/* MouseEventArgs e */)
     {
