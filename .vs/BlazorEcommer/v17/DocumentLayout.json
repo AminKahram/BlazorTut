@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\productsview\\parentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\productsview\\parentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\components\\_childcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\components\\_childcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\productsview\\parentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\productsview\\parentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\productsview\\components\\_productcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,12 +55,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-15T14:38:43.764Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ParentComponent.razor",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\ProductsView\\ParentComponent.razor",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\ProductsView\\ParentComponent.razor",
@@ -83,8 +82,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-15T14:17:59.302Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "BlazorEcoomer_Server\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-15T15:11:22.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T15:11:22.982Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "Ecommers.Core\\Models\\Products\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T14:24:01.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T14:24:01.349Z"
             }
           ]
         },
@@ -140,18 +136,17 @@
               "RelativeToolTip": "BlazorEcoomer_Server\\Shared\\NavMenu.razor",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-15T16:26:25.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T16:26:25.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_ChildComponent.razor",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Components\\_ChildComponent.razor",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Components\\_ChildComponent.razor",
               "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Components\\_ChildComponent.razor",
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Components\\_ChildComponent.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAVAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-15T16:22:03.65Z",
               "EditorCaption": ""
@@ -166,8 +161,7 @@
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\ProductsView\\Components\\_ProductComponent.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-15T15:09:49.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T15:09:49.564Z"
             }
           ]
         }
