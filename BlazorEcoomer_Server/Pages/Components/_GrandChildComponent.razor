@@ -1,7 +1,10 @@
 ﻿<h3>_GrandChildComponent</h3>
-<span>@Massage</span>
+<div>@Massage</div>
+<div>@LuckyNumber</div>
 
 @code {
-    [CascadingParameter]
+    [CascadingParameter(Name = "massage")]
     public string Massage { get; set; }
+    [CascadingParameter(Name = "number")]
+    public string LuckyNumber { get; set; }
 }
