@@ -62,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNWaWV3XFByb2R1Y3RzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Rezomeh/Blazor/BlazorEcommer/BlazorEcoomer_Server/Pages/Routing/RoutingComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGluZ1xSb3V0aW5nQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Rezomeh/Blazor/BlazorEcommer/BlazorEcoomer_Server/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

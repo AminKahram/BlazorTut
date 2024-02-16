@@ -1,0 +1,15 @@
+﻿@page "/RazorComponents/RoutingComponent/{parameter1}/{parameter2}"
+@page "/RazorComponents/RoutingComponent/{parameter1}"
+@page "/RazorComponents/RoutingComponent"
+@page "/RoutingComponent/{parameter1}/{parameter2}"
+@page "/RoutingComponent/{parameter1}"
+@page "/RoutingComponent"
+<h3>RoutingComponent</h3>
+<div>@parameter1</div>
+<div>@parameter2</div>
+@code {
+    [Parameter]
+    public string parameter1 { get; set; }
+    [Parameter]
+    public string parameter2 { get; set; }
+}
