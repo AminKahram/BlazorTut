@@ -1,9 +1,11 @@
 ﻿@page "/RazorComponents/ParentComponent"
+<CascadingValue Value="@CascadingMassage">
 
 <_ChildComponent Title="This is a Test" ShowMassage="ShowMassage" TextInputAttributes="ParentTextInputAttributes">
     <ChildContent>Testing FragmentRender child Content</ChildContent>
     <DangerContent>Testing rendre fragment danger one</DangerContent>
 </_ChildComponent>
+</CascadingValue>
 
     <p>@Massage</p>
 <_ChildComponent Title="This is a Test" ShowMassage="ShowMassage" placeholder ="Testing unmatche value capture">
@@ -16,6 +18,7 @@
     {
         Massage = "This is massage to show void event call back";
     }
+    public string CascadingMassage = "This is a test cascading massage";
     public Dictionary<string, object> ParentTextInputAttributes { get; set; } = new Dictionary<string, object>()
     {
         {"required","required"},
