@@ -1,8 +1,8 @@
-﻿@page "/RazorComponents/RoutingComponent/{parameter1}/{parameter2}"
-@page "/RazorComponents/RoutingComponent/{parameter1}"
+﻿@page "/RazorComponents/RoutingComponent/{parameter1:int}/{parameter2}"
+@page "/RazorComponents/RoutingComponent/{parameter1:int}"
 @page "/RazorComponents/RoutingComponent"
-@page "/RoutingComponent/{parameter1}/{parameter2}"
-@page "/RoutingComponent/{parameter1}"
+@page "/RoutingComponent/{parameter1:int}/{parameter2}"
+@page "/RoutingComponent/{parameter1:int}"
 @page "/RoutingComponent"
 @inject NavigationManager _NavigateionManager
 
@@ -12,12 +12,13 @@
 
 <a href="RoutingComponent?param1=testj&param2=tet2" class="btn btn-secondary">navigate to url</a>
 <button class="btn btn-danger" @onclick="LoadParameters">Load parameters</button>
+<button class="btn btn-primary" @onclick="NavigateToURlWithnavigatorManager">Navigate with navigator manager</button>
 <br />
 <h2>param 1: @param1</h2>
 <h2>param 2: @param2</h2>
 @code {
     [Parameter]
-    public string parameter1 { get; set; }
+    public int parameter1 { get; set; }
     [Parameter]
     public string parameter2 { get; set; }
 
@@ -31,4 +32,9 @@
         param1 = query["param1"];
         param2 = query["param2"];
     }
+    private void NavigateToURlWithnavigatorManager()
+    {
+        _NavigateionManager.NavigateTo("RoutingComponent?param1=TestNavManager&param2=TestNavManager22");
+    }
+
 }
