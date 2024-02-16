@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\blazorjson\\blazorjscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\blazorjson\\blazorjscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\routing\\routingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\routing\\routingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -13,21 +21,48 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 31,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 25,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RoutingComponent.razor",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor*",
-              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-16T13:30:58.913Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorjsComponent.razor",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T14:49:56.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T14:50:40.419Z",
               "EditorCaption": ""
             },
             {

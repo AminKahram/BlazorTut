@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorEcoomer_Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+526a5d06c4d0f6411a109a9682125820a8f3b674")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ddaee194b3e2d3d7179aad35d99481fef51297")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorEcoomer_Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorEcoomer_Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
