@@ -3,7 +3,7 @@
 <div>
     <button class="btn btn-primary" @onclick="SetConfirmJs">test Confrim mrthod with js runtime</button>
 </div>
-@if (massage)
+@if (message)
 {
     <p>Confirm Clicked</p>
 }
@@ -11,11 +11,24 @@ else
 {
     <p>waiting for confirmation</p>
 }
-
+<div>
+    <button class="btn btn-success" @onclick="SetSuccessFulMessage">Succesful</button>
+</div>
+<div>
+    <button class="btn btn-danger" @onclick="SetErrorFulMessage">Error</button>
+</div>
 @code {
-    public bool massage { get; set; }
+    public bool message { get; set; }
     private async Task SetConfirmJs()
     {
-        massage = await _JSruntime.InvokeAsync<bool>("confirm", "test subject");
+        message = await _JSruntime.InvokeAsync<bool>("confirm", "test subject");
+    }
+    private async Task SetSuccessFulMessage()
+    {
+        await _JSruntime.InvokeVoidAsync("ShowToastr", "success", "Success");
+    }
+    private async Task SetErrorFulMessage()
+    {
+        await _JSruntime.InvokeVoidAsync("ShowToastr", "error", "Error");
     }
 }
