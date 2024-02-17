@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xfR3JhbmRDaGlsZENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Rezomeh/Blazor/BlazorEcommer/BlazorEcoomer_Server/Pages/Components/_LifeCycleChild.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xfTGlmZUN5Y2xlQ2hpbGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Rezomeh/Blazor/BlazorEcommer/BlazorEcoomer_Server/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Rezomeh/Blazor/BlazorEcommer/BlazorEcoomer_Server/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rezomeh/Blazor/BlazorEcommer/BlazorEcoomer_Server/Pages/LifeCycle/LifeCycleComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlmZUN5Y2xlXExpZmVDeWNsZUNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Rezomeh/Blazor/BlazorEcommer/BlazorEcoomer_Server/Pages/ProductsView/Components/_ProductComponent.razor]

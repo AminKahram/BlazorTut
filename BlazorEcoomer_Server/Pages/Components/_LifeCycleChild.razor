@@ -1,0 +1,18 @@
+﻿<h3>_LifeCycleChild</h3>
+@foreach(string eventCal in EventCal )
+{
+    <P>@eventCal</P>
+}
+@code {
+    public List<string> EventCal = new();
+    protected override void OnInitialized()
+    {
+        EventCal.Add("Child - OnInitialized called");
+        base.OnInitialized();
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        EventCal.Add("child - OnInitialized async called");
+        await Task.Delay(1000);
+    }
+}

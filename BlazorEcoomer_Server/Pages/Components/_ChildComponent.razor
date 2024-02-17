@@ -1,4 +1,5 @@
-﻿<div>
+﻿@inject IJSRuntime _JSruntime
+<div>
     <div class="alert alert-info">
         @Title
     </div>
@@ -37,5 +38,13 @@
         {"maxlength","5"}
     };
 
+    public async Task SetSuccessFulAlert()
+    {
+        await _JSruntime.SetSuccessFulMessageSA("Operation was successfull", "Success", 500);
+    }
+    public async Task SetErrorFulAlert()
+    {
+        await _JSruntime.SetErrorFulMessageSA("Operation Failed", "Error", 10000);
+    }
     
 }

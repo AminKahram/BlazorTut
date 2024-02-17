@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorEcommer_Client",
   "resources": {
-    "hash": "sha256-yzUJLqeDu75O96pTl3iyeFeyQHxOQAf6Pz3fIrboF7s=",
+    "hash": "sha256-p0xL+u5Uz43xY9wSMvueSRFFj8riwO/aY19d4wB7ko0=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.kcmmmpx35r.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "BlazorEcommer_Client.wasm": "sha256-sPli2uaTQLbGHRlHMem+Gsyk1+9IXCFWQFViwUhWcFM="
+      "BlazorEcommer_Client.wasm": "sha256-ow9ztP5B0SU+6yvJQ5ySAJjVN0jag4sDUv/jx9Mpblw="
     },
     "pdb": {
-      "BlazorEcommer_Client.pdb": "sha256-GmhwjH7xcblxbgSFYbSaRF788rdUYaOKw/fIy7EBAg4="
+      "BlazorEcommer_Client.pdb": "sha256-5qYqa6u4X5xUB8t50kQjnlpOUGdY5My88132o6gP81Q="
     }
   },
   "cacheBootResources": true,

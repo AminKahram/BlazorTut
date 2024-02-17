@@ -1,0 +1,34 @@
+﻿@page "/LifeCycleComponent"
+
+<h3>LifeCycleComponent</h3>
+<div>counter : @counter</div>
+<button class="btn btn-dark" @onclick="Increament">Count</button>
+<div class="border">
+    <_LifeCycleChild>
+
+    </_LifeCycleChild>
+
+</div>
+
+@foreach(string eventCal in EventCal )
+{
+    <P>@eventCal</P>
+}
+@code {
+    private int counter = 0;
+    public List<string> EventCal = new();
+    private void Increament()
+    {
+        counter++;
+    }
+    protected override void OnInitialized()
+    {
+        EventCal.Add("OnInitialized called");
+        base.OnInitialized();
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        EventCal.Add("OnInitialized async called");
+        await Task.Delay(5000); 
+    }
+}
