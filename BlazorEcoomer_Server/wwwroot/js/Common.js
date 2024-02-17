@@ -1,10 +1,10 @@
-﻿window.ShowToastr = (type, message) => { 
+﻿window.ShowToastr = (type, message, title, timeOut) => { 
     if (type == "success")
     {
-        toastr.success(message, 'Operation Successful', { timeOut: 5000 });
+        toastr.success(message, title, { timeOut: timeOut });
     }
     if (type == "error")
     {
-        toastr.error(message, 'Operation Failed!', { timeOut: 5000 });
+        toastr.error(message, title, { timeOut: timeOut });
     }
 }

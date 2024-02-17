@@ -25,10 +25,10 @@ else
     }
     private async Task SetSuccessFulMessage()
     {
-        await _JSruntime.InvokeVoidAsync("ShowToastr", "success", "Success");
+        await _JSruntime.SetSuccessFulMessageToastr("Operation was successfull", "Success", 500);
     }
     private async Task SetErrorFulMessage()
     {
-        await _JSruntime.InvokeVoidAsync("ShowToastr", "error", "Error");
+        await _JSruntime.SetErrorFulMessage("Operation Failed", "Error", 10000);
     }
 }

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\wwwroot\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\wwwroot\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\blazorjson\\blazorjscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\blazorjson\\blazorjscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\data\\helper\\toastrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\data\\helper\\toastrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\routing\\routingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\routing\\routingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\wwwroot\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\wwwroot\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\routing\\routingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\routing\\routingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,8 +45,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 33,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 24,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,53 +62,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlazorjsComponent.razor",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
-              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
-              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABGAAAA",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\_Imports.razor",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\_Imports.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T14:49:56.597Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 17,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoutingComponent.razor",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
-              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
-              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T13:30:58.913Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-02-17T15:47:42.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BlazorjsComponent.razor",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\BlazorJson\\BlazorjsComponent.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T14:49:56.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoutingComponent.razor",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Routing\\RoutingComponent.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T13:30:58.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToastrHelper.cs",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Data\\Helper\\ToastrHelper.cs",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Data\\Helper\\ToastrHelper.cs",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Data\\Helper\\ToastrHelper.cs",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Data\\Helper\\ToastrHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T14:57:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Common.js",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\Common.js",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\wwwroot\\js\\Common.js",
               "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\Common.js",
               "RelativeToolTip": "BlazorEcoomer_Server\\wwwroot\\js\\Common.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-02-16T15:04:34.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.razor",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Index.razor",
@@ -108,12 +141,11 @@
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Index.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T15:06:34.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T15:06:34.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\_Host.cshtml",
@@ -121,12 +153,11 @@
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\_Host.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T15:06:37.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T15:06:37.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\_Layout.cshtml",
@@ -134,12 +165,11 @@
               "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T15:06:44.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T15:06:44.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Shared\\NavMenu.razor",
@@ -147,8 +177,7 @@
               "RelativeToolTip": "BlazorEcoomer_Server\\Shared\\NavMenu.razor",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T14:50:40.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T14:50:40.419Z"
             }
           ]
         }
