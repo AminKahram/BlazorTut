@@ -11,12 +11,23 @@ else
 {
     <p>waiting for confirmation</p>
 }
-<div>
-    <button class="btn btn-success" @onclick="SetSuccessFulMessage">Succesful</button>
+<div claas="row">
+    <div>
+        <button class="btn btn-success" @onclick="SetSuccessFulMessage">Succesful</button>
+    </div>
+    <div>
+        <button class="btn btn-danger" @onclick="SetErrorFulMessage">Error</button>
+    </div>
 </div>
-<div>
-    <button class="btn btn-danger" @onclick="SetErrorFulMessage">Error</button>
+<div claas="row">
+    <div>
+        <button class="btn btn-success" @onclick="SetSuccessFulAlert">Succesful</button>
+    </div>
+    <div>
+        <button class="btn btn-danger" @onclick="SetErrorFulAlert">Error</button>
+    </div>
 </div>
+
 @code {
     public bool message { get; set; }
     private async Task SetConfirmJs()
@@ -30,5 +41,13 @@ else
     private async Task SetErrorFulMessage()
     {
         await _JSruntime.SetErrorFulMessage("Operation Failed", "Error", 10000);
+    }
+    private async Task SetSuccessFulAlert()
+    {
+        await _JSruntime.SetSuccessFulMessageSA("Operation was successfull", "Success", 500);
+    }
+    private async Task SetErrorFulAlert()
+    {
+        await _JSruntime.SetErrorFulMessageSA("Operation Failed", "Error", 10000);
     }
 }
