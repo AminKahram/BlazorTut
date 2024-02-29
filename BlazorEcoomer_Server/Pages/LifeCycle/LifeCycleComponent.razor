@@ -1,14 +1,17 @@
 ﻿@page "/LifeCycleComponent"
+@using System.Threading
 
 <h3>LifeCycleComponent</h3>
 <div>counter : @counter</div>
 <button class="btn btn-dark" @onclick="Increament">Count</button>
 <div class="border">
-    <_LifeCycleChild>
+    <_LifeCycleChild currentCount="counter">
 
     </_LifeCycleChild>
 
 </div>
+
+<div>current count is : @count <button class="btn btn-primary" @onclick="SetTimer"> start count down</button></div>
 
 @foreach(string eventCal in EventCal )
 {
@@ -17,6 +20,7 @@
 @code {
     private int counter = 0;
     public List<string> EventCal = new();
+    public byte count { get; set; } = 5;
     private void Increament()
     {
         counter++;
@@ -24,11 +28,54 @@
     protected override void OnInitialized()
     {
         EventCal.Add("OnInitialized called");
-        base.OnInitialized();
     }
     protected override async Task OnInitializedAsync()
     {
         EventCal.Add("OnInitialized async called");
-        await Task.Delay(5000); 
+        await Task.Delay(1000); 
     }
+    protected override void OnParametersSet()
+    {
+        EventCal.Add("OnParametersSet called");
+    }
+    protected override async Task OnParametersSetAsync()
+    {
+        EventCal.Add("OnParametersSetAsync called");
+        await Task.Delay(1000);
+    }
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+            counter = 10;
+        else
+            counter = 20;
+
+        EventCal.Add("OnAfterRender called");
+    }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        EventCal.Add("OnAfterRenderAsync called");
+        await Task.Delay(1000);
+
+    }
+    protected override bool ShouldRender()
+    {
+        EventCal.Add("ShouldRender called");
+        return true;
+    }
+
+    void SetTimer()
+    {
+        var timer = new Timer(StartCountDown, null, 1000, 1000);
+    }
+    void StartCountDown(object state)
+    {
+        if (count != 0)
+        {
+            count--;
+            InvokeAsync(StateHasChanged);
+        }
+            
+    }
+
 }

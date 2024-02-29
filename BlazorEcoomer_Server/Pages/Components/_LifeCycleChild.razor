@@ -4,6 +4,9 @@
     <P>@eventCal</P>
 }
 @code {
+    [Parameter]
+    public int currentCount { get; set; }
+
     public List<string> EventCal = new();
     protected override void OnInitialized()
     {
@@ -14,5 +17,9 @@
     {
         EventCal.Add("child - OnInitialized async called");
         await Task.Delay(1000);
+    }
+    protected override void OnParametersSet()
+    {
+        EventCal.Add("child - OnParametersSet called");
     }
 }
