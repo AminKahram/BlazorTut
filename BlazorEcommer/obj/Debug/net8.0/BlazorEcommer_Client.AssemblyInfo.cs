@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorEcommer_Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39440ef4b91961f064714cb935a9afa501791541")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b962e5f20b61e088db349bdf7ac1a42bc79ba60e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorEcommer_Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorEcommer_Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

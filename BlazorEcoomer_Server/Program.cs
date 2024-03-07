@@ -1,6 +1,8 @@
 using BlazorEcoomer_Server.Data;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
+using Ecommers.Business.Repository;
+using Ecommers.Business.Repository.IRepository;
+using Ecommers_DataAccess;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddDbContext<ApplicationDataAccess>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Ecommers")));
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());   
 
 var app = builder.Build();
 
