@@ -1,0 +1,77 @@
+﻿@page "/Category/add"
+@page "/Category/edit/{Id:int}"
+
+@inject ICategoryRepository CategoryRepo
+@inject NavigationManager _navmanage
+
+<div class="row my-2">
+    <h3 class="card-title">@tilte Category</h3>
+    <div class="col-10">
+        @if (IsLoading)
+        {
+            <div class="align-content-center text-center">
+                <img src="/img/Gear.gif" />
+            </div>
+        }
+        else
+        {
+            <EditForm Model="category" OnValidSubmit="UpsertCategoryDBO">
+                <DataAnnotationsValidator />
+                <div class="form-group m-1 p-1">
+                    <label>Name</label>
+                    <InputText @bind-Value=category.Name class="form-control"></InputText>
+                    <ValidationMessage For="() => category.Name"></ValidationMessage>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <button class="btn btn-success">@tilte</button>
+                    <NavLink href="/Category/Index" class="btn btn-secondary">Back</NavLink>
+                </div>
+            </EditForm>
+
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    [Parameter]
+    public string tilte { get; set; } = "Create";
+    private CategoryDTO category { set; get; } = new CategoryDTO();
+    bool IsLoading { set; get; }
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (Id != 0)
+        {
+            tilte = "Edit";
+            if (firstRender)
+                await GetCategory();
+        }
+        else
+            tilte = "Create";
+
+
+    }
+    private async Task GetCategory()
+    {
+        IsLoading = true;
+        StateHasChanged();
+
+        if (Id != 0)
+            category = await CategoryRepo.GetCategory(Id);
+
+        IsLoading = false;
+        StateHasChanged();
+    }
+    private async Task UpsertCategoryDBO()
+    {
+        if (Id != 0)
+            category = await CategoryRepo.Update(category);
+        else
+            category = await CategoryRepo.Create(category);
+
+        _navmanage.NavigateTo("/Category/Index");
+
+    }
+}

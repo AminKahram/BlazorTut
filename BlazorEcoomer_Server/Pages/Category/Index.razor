@@ -1,0 +1,85 @@
+﻿@page "/Category/Index"
+@inject ICategoryRepository CategoryRepo
+@inject IJSRuntime _JSruntime;
+
+<div class="row mt-4">
+    <div class="col">
+        @if (categories.Any())
+        {
+            <table class="table table-bordered table-hover table-striped ">
+                <thead>
+                <th>ID</th>
+                <th>Name</th>
+                </thead>
+                <tbody>
+                    @foreach (var cat in categories)
+                    {
+                        <tr>
+                            <td>
+                                @cat.CategoryId
+                            </td>
+                            <td>
+                                @cat.Name
+                            </td
+                            <td>
+                                <NavLink class="btn btn-warning" href=@($"/Category/edit/{cat.CategoryId}")>Edit</NavLink>
+                            </td>
+                            <td>
+                                <button class="btn btn-danger" @onclick="() => RemoveCategory(cat.CategoryId)">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            if (IsLoading)
+            {
+                <div class="align-content-center text-center">
+                    <img src="/img/Gear.gif" />
+                </div>
+            }
+            else
+            {
+                <p>There is no content to show.</p>
+            }
+        }
+
+    </div>
+    <div class="col">
+        <a class="btn btn-primary form-control" href="/Category/add">
+            Add
+        </a>
+    </div>
+
+</div>
+
+@code {
+    private IEnumerable<CategoryDTO> categories { get; set; } = new List<CategoryDTO>();
+    bool IsLoading { set; get; }
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+           await GetCategories();
+    }
+    private async Task GetCategories()
+    {
+        IsLoading = true;
+        StateHasChanged();
+        categories = await CategoryRepo.GetAll();
+        IsLoading = false;
+        StateHasChanged();
+
+    }
+    private async Task RemoveCategory(int id)
+    {
+        bool DeleteConfirm = await _JSruntime.SetConfirmSA("Do you want to delete this category?", "Your category has been deleted.");
+        if (DeleteConfirm)
+        {
+            await CategoryRepo.Delete(id);
+            await GetCategories();
+        }
+
+    }
+}

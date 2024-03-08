@@ -4,9 +4,9 @@ namespace Ecommers.Business.Repository.IRepository;
 
 public interface ICategoryRepository
 {
-    CategoryDTO Create(CategoryDTO addModel);
-    CategoryDTO Update(CategoryDTO editModel);
-    int Delete(int CategoryId);
-    IEnumerable<CategoryDTO> GetAll();
-    CategoryDTO GetCategory(int CategoryId);
+    Task<CategoryDTO> Create(CategoryDTO addModel);
+    Task<CategoryDTO> Update(CategoryDTO editModel);
+    Task<int> Delete(int CategoryId);
+    Task<IEnumerable<CategoryDTO>> GetAll();
+    Task<CategoryDTO> GetCategory(int CategoryId);
 }

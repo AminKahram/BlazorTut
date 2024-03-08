@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vzaYMIDDn8MMO6zcq9EuahW9WQOWJi5uwKOS8bbJWf8=",
+  "Hash": "d2fRr05r8dvz1jtWJNk45KgQ8rlfsr2gZ+RZ9PpCQNA=",
   "Source": "BlazorEcoomer_Server",
   "BasePath": "_content/BlazorEcoomer_Server",
   "Mode": "Default",
@@ -300,6 +300,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Gear.gif",
+      "SourceId": "BlazorEcoomer_Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\",
+      "BasePath": "_content/BlazorEcoomer_Server",
+      "RelativePath": "img/Gear.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Gear.gif"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\Common.js",

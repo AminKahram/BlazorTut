@@ -3,7 +3,7 @@ using Ecommers.Business.Repository.IRepository;
 using Ecommers.Core.Models.Categories;
 using Ecommers.DTO.Models.Category;
 using Ecommers_DataAccess;
-using Ecommers_DataAccess.Migrations;
+using Microsoft.EntityFrameworkCore;
 
 namespace Ecommers.Business.Repository;
 
@@ -17,55 +17,51 @@ public class CategoryRepository : ICategoryRepository
         this.applicationDataAccess = applicationDataAccess;
         this.mapper = mapper;
     }
-    public CategoryDTO Create(CategoryDTO addModel)
+    public async Task<CategoryDTO> Create(CategoryDTO addModel)
     {
         var category = mapper.Map<CategoryDTO,Category>(addModel);
         
-        var objAdd = applicationDataAccess.Add(category);
-        applicationDataAccess.SaveChanges();
+        var objAdd =await applicationDataAccess.AddAsync(category);
+        await applicationDataAccess.SaveChangesAsync();
         return mapper.Map<Category, CategoryDTO>(objAdd.Entity);
     }
 
-    public int Delete(int CategoryId)
+    public async Task<int> Delete(int CategoryId)
     {
-        var categoryQ = applicationDataAccess.Categories.FirstOrDefault(c =>c.CategoryId == CategoryId);
+        var categoryQ =await applicationDataAccess.Categories.FirstOrDefaultAsync(c =>c.CategoryId == CategoryId);
         if (categoryQ != null)
         {
             applicationDataAccess.Categories.Remove(categoryQ);
+            await applicationDataAccess.SaveChangesAsync();   
             return categoryQ.CategoryId;
         }
         return 0;
         //throw new NotImplementedException();
     }
 
-    public IEnumerable<CategoryDTO> GetAll()
+    public async Task<IEnumerable<CategoryDTO>> GetAll()
     {
-        var categoryQ = applicationDataAccess.Categories.Select(c => c).ToList();
+        var categoryQ = await applicationDataAccess.Categories.Select(c => c).ToListAsync();
         if (categoryQ != null)
             return mapper.Map<IEnumerable<Category>,IEnumerable<CategoryDTO>>(categoryQ);
 
         return Enumerable.Empty<CategoryDTO>();
-        //throw new NotImplementedException();
     }
 
-    public CategoryDTO GetCategory(int CategoryId)
-    {
-        return mapper.Map<Category, CategoryDTO>(applicationDataAccess.Categories.FirstOrDefault(c => c.CategoryId == CategoryId)?? new Category());
-        //throw new NotImplementedException();
-    }
+    public async Task<CategoryDTO> GetCategory(int CategoryId)
+        => mapper.Map<Category, CategoryDTO>(await applicationDataAccess.Categories.FirstOrDefaultAsync(c => c.CategoryId == CategoryId) ?? new Category());
+    
 
-    public CategoryDTO Update(CategoryDTO editModel)
+    public async Task<CategoryDTO> Update(CategoryDTO editModel)
     {
-        var categoryQ = applicationDataAccess.Categories.FirstOrDefault(c => c.CategoryId == editModel.CategoryId);
+        var categoryQ = await applicationDataAccess.Categories.FirstOrDefaultAsync(c => c.CategoryId == editModel.CategoryId);
         if (categoryQ != null)
         {
             categoryQ.Name = editModel.Name;
             applicationDataAccess.Update(categoryQ);
-            applicationDataAccess.SaveChanges();
+            await applicationDataAccess.SaveChangesAsync();
             return mapper.Map<Category, CategoryDTO>(categoryQ);
-
         }
         return editModel;
-        //throw new NotImplementedException();
     }
 }

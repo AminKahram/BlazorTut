@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommers.Core", "Ecommers.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommers_DataAccess", "Ecommers_DataAccess\Ecommers_DataAccess.csproj", "{403BB2CB-A266-4C4F-BF34-AC3D65D4575E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommers.DTO", "Ecommers.DTO\Ecommers.DTO.csproj", "{7CE75BB8-2B37-42D7-B42A-39389496ED46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommers.DTO", "Ecommers.DTO\Ecommers.DTO.csproj", "{7CE75BB8-2B37-42D7-B42A-39389496ED46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommers.Business", "Ecommers.Business\Ecommers.Business.csproj", "{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommers.Business", "Ecommers.Business\Ecommers.Business.csproj", "{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

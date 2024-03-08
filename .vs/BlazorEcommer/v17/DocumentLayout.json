@@ -3,56 +3,20 @@
   "WorkspaceRootPath": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\category\\component\\upsertcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\category\\component\\upsertcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}|Ecommers.Business\\Ecommers.Business.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.business\\ecommers.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}|Ecommers.Business\\Ecommers.Business.csproj|solutionrelative:ecommers.business\\ecommers.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403BB2CB-A266-4C4F-BF34-AC3D65D4575E}|Ecommers_DataAccess\\Ecommers_DataAccess.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers_dataaccess\\applicationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403BB2CB-A266-4C4F-BF34-AC3D65D4575E}|Ecommers_DataAccess\\Ecommers_DataAccess.csproj|solutionrelative:ecommers_dataaccess\\applicationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\blazorecoomer_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\blazorecoomer_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\pages\\category\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\pages\\category\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}|Ecommers.Business\\Ecommers.Business.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.business\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}|Ecommers.Business\\Ecommers.Business.csproj|solutionrelative:ecommers.business\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CE75BB8-2B37-42D7-B42A-39389496ED46}|Ecommers.DTO\\Ecommers.DTO.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.dto\\models\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE75BB8-2B37-42D7-B42A-39389496ED46}|Ecommers.DTO\\Ecommers.DTO.csproj|solutionrelative:ecommers.dto\\models\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.core\\models\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|solutionrelative:ecommers.core\\models\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}|Ecommers.Business\\Ecommers.Business.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.business\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7BE45D9-7846-4A92-9CC6-5E9F595163BA}|Ecommers.Business\\Ecommers.Business.csproj|solutionrelative:ecommers.business\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CE75BB8-2B37-42D7-B42A-39389496ED46}|Ecommers.DTO\\Ecommers.DTO.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.dto\\ecommers.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7CE75BB8-2B37-42D7-B42A-39389496ED46}|Ecommers.DTO\\Ecommers.DTO.csproj|solutionrelative:ecommers.dto\\ecommers.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.core\\ecommers.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|solutionrelative:ecommers.core\\ecommers.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CE75BB8-2B37-42D7-B42A-39389496ED46}|Ecommers.DTO\\Ecommers.DTO.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE75BB8-2B37-42D7-B42A-39389496ED46}|Ecommers.DTO\\Ecommers.DTO.csproj|solutionrelative:ecommers.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|d:\\rezomeh\\blazor\\blazorecommer\\ecommers.core\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1952479-F825-49E4-AF32-F543C371FC80}|Ecommers.Core\\Ecommers.Core.csproj|solutionrelative:ecommers.core\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|d:\\rezomeh\\blazor\\blazorecommer\\blazorecoomer_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FBAEC28F-1B14-4FB1-A2B0-6CF54244A6F2}|BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj|solutionrelative:blazorecoomer_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,50 +25,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 689,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 567,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDataAccess.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers_DataAccess\\ApplicationDataAccess.cs",
-              "RelativeDocumentMoniker": "Ecommers_DataAccess\\ApplicationDataAccess.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers_DataAccess\\ApplicationDataAccess.cs",
-              "RelativeToolTip": "Ecommers_DataAccess\\ApplicationDataAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T13:44:31.536Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Program.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Program.cs",
-              "RelativeToolTip": "BlazorEcoomer_Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T14:48:54.789Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ecommers.Business",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Ecommers.Business.csproj",
-              "RelativeDocumentMoniker": "Ecommers.Business\\Ecommers.Business.csproj",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Ecommers.Business.csproj",
-              "RelativeToolTip": "Ecommers.Business\\Ecommers.Business.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-07T16:04:08.189Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -116,134 +39,63 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 817,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpsertCategory.razor",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Category\\Component\\UpsertCategory.razor",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Category\\Component\\UpsertCategory.razor",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Category\\Component\\UpsertCategory.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Category\\Component\\UpsertCategory.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T16:21:49.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Category\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\Pages\\Category\\Index.razor",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\Pages\\Category\\Index.razor",
+              "RelativeToolTip": "BlazorEcoomer_Server\\Pages\\Category\\Index.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T16:19:47.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BlazorEcoomer_Server.csproj",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj",
-              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj",
-              "RelativeToolTip": "BlazorEcoomer_Server\\BlazorEcoomer_Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-07T15:38:47.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Ecommers.Business\\Repository\\CategoryRepository.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Ecommers.Business\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAQwEMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T15:56:22.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Ecommers.Business\\Repository\\IRepository\\ICategoryRepository.cs",
               "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeToolTip": "Ecommers.Business\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAQAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T15:50:10.476Z",
+              "WhenOpened": "2024-03-08T16:14:56.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.DTO\\Models\\Category\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "Ecommers.DTO\\Models\\Category\\CategoryDTO.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.DTO\\Models\\Category\\CategoryDTO.cs",
-              "RelativeToolTip": "Ecommers.DTO\\Models\\Category\\CategoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAYAAAA",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommers.Business\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Business\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecommers.Business\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T15:44:21.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Ecommers.DTO.csproj",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.DTO\\Ecommers.DTO.csproj",
-              "RelativeDocumentMoniker": "Ecommers.DTO\\Ecommers.DTO.csproj",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.DTO\\Ecommers.DTO.csproj",
-              "RelativeToolTip": "Ecommers.DTO\\Ecommers.DTO.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-05T15:43:35.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Categories\\Category.cs",
-              "RelativeDocumentMoniker": "Ecommers.Core\\Models\\Categories\\Category.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Categories\\Category.cs",
-              "RelativeToolTip": "Ecommers.Core\\Models\\Categories\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T14:28:53.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Ecommers.Core",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Ecommers.Core.csproj",
-              "RelativeDocumentMoniker": "Ecommers.Core\\Ecommers.Core.csproj",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Ecommers.Core.csproj",
-              "RelativeToolTip": "Ecommers.Core\\Ecommers.Core.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-05T15:43:28.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.DTO\\Class1.cs",
-              "RelativeDocumentMoniker": "Ecommers.DTO\\Class1.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.DTO\\Class1.cs",
-              "RelativeToolTip": "Ecommers.DTO\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T15:43:23.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Products\\Product.cs",
-              "RelativeDocumentMoniker": "Ecommers.Core\\Models\\Products\\Product.cs",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\Ecommers.Core\\Models\\Products\\Product.cs",
-              "RelativeToolTip": "Ecommers.Core\\Models\\Products\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T14:29:13.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\appsettings.json",
-              "RelativeDocumentMoniker": "BlazorEcoomer_Server\\appsettings.json",
-              "ToolTip": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\appsettings.json",
-              "RelativeToolTip": "BlazorEcoomer_Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-29T14:43:39.616Z",
+              "WhenOpened": "2024-03-08T11:28:54.063Z",
               "EditorCaption": ""
             }
           ]

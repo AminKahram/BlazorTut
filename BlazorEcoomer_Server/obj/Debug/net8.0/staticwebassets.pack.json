@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Gear.gif",
+      "PackagePath": "staticwebassets\\img\\Gear.gif"
+    },
+    {
       "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\Common.js",
       "PackagePath": "staticwebassets\\js\\Common.js"
     },
