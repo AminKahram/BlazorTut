@@ -22,11 +22,11 @@
 <_GrandChildComponent></_GrandChildComponent>
 @code {
     [Parameter]
-    public string Title { get; set; }
+    public string Title { get; set; } = string.Empty;
     [Parameter]
-    public RenderFragment ChildContent { get; set; }
+    public RenderFragment? ChildContent { get; set; }
     [Parameter]
-    public RenderFragment DangerContent { get; set; }
+    public RenderFragment? DangerContent { get; set; }
     [Parameter]
     public EventCallback ShowMassage { get; set; }
 

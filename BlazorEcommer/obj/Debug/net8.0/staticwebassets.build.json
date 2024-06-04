@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3y6pDOJ/3Cdz5gQtX3fEgxWAV1ArfB+EgyefgCSmfTg=",
+  "Hash": "kqvgsMpeZx0SpK0FgC/n70rIUzcuQI787vnJEVCYARc=",
   "Source": "BlazorEcommer_Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.22\\build\\net6.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.6\\build\\net8.0\\blazor.webassembly.js"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorEcommer_Client.pdb",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.kcmmmpx35r.js",
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.akw2xfemi0.js",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.kcmmmpx35r.js",
+      "RelativePath": "_framework/dotnet.native.8.0.6.akw2xfemi0.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.7l2rqlm4ds.js",
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.q3cr1uxwk3.js",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.7l2rqlm4ds.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.6.q3cr1uxwk3.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\Amin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4292,25 +4292,6 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\3xpp2bsxw8.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\48jbkllf7n.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -4482,6 +4463,25 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Xml.Linq.wasm"
     },
     {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\6084k2orpb.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\60ois20uav.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -4577,23 +4577,23 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\7l2rqlm4ds.gz",
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\7s1mkukaix.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.7l2rqlm4ds.js.gz",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.7l2rqlm4ds.js",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.7l2rqlm4ds.js"
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\7tbdwpa4p2.gz",
@@ -4786,25 +4786,6 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\9db7o90fh8.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\9eawn465k6.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -4938,6 +4919,25 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Windows.wasm"
     },
     {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\akw2xfemi0.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.6.akw2xfemi0.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.akw2xfemi0.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.akw2xfemi0.js"
+    },
+    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\atywo4wudp.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -5052,6 +5052,25 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.wasm"
     },
     {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\ccy1m82djn.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\clgwftt9xq.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -5107,6 +5126,44 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Mail.wasm"
+    },
+    {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\d9zw3ah9ff.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\da8gz66kwl.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\dejvg5hx64.gz",
@@ -5964,25 +6021,6 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\jsfflwy0ed.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\k9id78vz02.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -6002,25 +6040,6 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\kcmmmpx35r.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.kcmmmpx35r.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.kcmmmpx35r.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.kcmmmpx35r.js"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\kctlzrkmx2.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -6038,25 +6057,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.HttpListener.wasm"
-    },
-    {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\kex71kj0dn.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\kzchbd3iab.gz",
@@ -6306,6 +6306,25 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm"
     },
     {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\nw3kv1og4k.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\o7u0uecq4s.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -6361,6 +6380,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
+    },
+    {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\os6nxkdkr5.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\oyolhlp4o4.gz",
@@ -6477,25 +6515,6 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NetworkInformation.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\pok00jxrs5.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\q0lbvowbg2.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -6570,6 +6589,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Metadata.wasm"
+    },
+    {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\q3cr1uxwk3.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.6.q3cr1uxwk3.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.q3cr1uxwk3.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.q3cr1uxwk3.js"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\qcu6uf6r0s.gz",
@@ -6703,25 +6741,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Http.Json.wasm"
-    },
-    {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\rc863dfnu4.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\ri0ezdkhp7.gz",
@@ -7028,25 +7047,6 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.wasm"
     },
     {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\u43u7wi8ee.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\u4j6gfh3a7.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -7142,6 +7142,25 @@
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm"
     },
     {
+      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\v09rfjh4er.gz",
+      "SourceId": "BlazorEcommer_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\v2bfu5fneb.gz",
       "SourceId": "BlazorEcommer_Client",
       "SourceType": "Computed",
@@ -7159,25 +7178,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Concurrent.wasm"
-    },
-    {
-      "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\v5m5dv6b0w.gz",
-      "SourceId": "BlazorEcommer_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcommer\\obj\\Debug\\net8.0\\compressed\\vcwhs4budh.gz",

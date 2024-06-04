@@ -1,0 +1,165 @@
+﻿@page "/Product/add"
+@page "/Product/edit/{Id:int}"
+
+@inject IProductRepository ProductRepo
+@inject ICategoryRepository CategoryRepo
+@inject IFileService FileService
+@inject IJSRuntime JSRuntime
+@inject NavigationManager _navmanage
+
+<div class="row my-2">
+    <h3 class="card-title">@tilte Product</h3>
+    <div class="col-md-10">
+        @if (IsLoading)
+        {
+            <div class="align-content-center text-center">
+                <img src="/img/Gear.gif" />
+            </div>
+        }
+        else
+        {
+            <EditForm Model="product" OnValidSubmit="UpsertProductDBO">
+                <DataAnnotationsValidator />
+                <div class="form-group m-1 p-1">
+                    <label>Name</label>
+                    <InputText @bind-Value=product.Name class="form-control"></InputText>
+                    <ValidationMessage For="() => product.Name"></ValidationMessage>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <label>Color</label>
+                    <InputText @bind-Value=product.Color class="form-control"></InputText>
+                    <ValidationMessage For="() => product.Color"></ValidationMessage>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <label>Description</label>
+                    <InputTextArea @bind-Value=product.Description class="form-control"></InputTextArea>
+                    <ValidationMessage For="() => product.Description"></ValidationMessage>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <label>Show Favorite</label>
+                    <InputCheckbox @bind-Value=product.ShowFavorites class="form-check-input"></InputCheckbox>
+                    <ValidationMessage For="() => product.ShowFavorites"></ValidationMessage>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <label>Customer Favorite</label>
+                    <InputCheckbox @bind-Value=product.CustomerFavorites class="form-check-input"></InputCheckbox>
+                    <ValidationMessage For="() => product.CustomerFavorites"></ValidationMessage>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <label>Category</label>
+                    <InputSelect @bind-Value=product.CategoryId class="form-control">
+                        <option value="0" disabled selected>--Select--</option>
+                        @foreach (var cat in categories)
+                        {
+                            <option value="@cat.CategoryId"  >@cat.Name</option>
+                        }
+                    </InputSelect>
+                    <ValidationMessage For="() => product.Category"></ValidationMessage>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <label>Image</label>
+                    <InputFile OnChange="HandelFileUpload"></InputFile>
+                </div>
+                <div class="form-group m-1 p-1">
+                    <button class="btn btn-success">@tilte</button>
+                    <NavLink href="/Product/Index" class="btn btn-secondary">Back</NavLink>
+                </div>
+
+            </EditForm>
+
+        }
+    </div>
+    <div class="col-md-2">
+        <img class="w-100" src="@product.ImageUrl" />
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    [Parameter]
+    public string tilte { get; set; } = "Create";
+    private ProductDTO product { set; get; } = new()
+    {
+            ImageUrl = "/img/default.png"
+    };
+    private IEnumerable<CategoryDTO> categories { set; get; } = new List<CategoryDTO>();
+    bool IsLoading { set; get; }
+    public string OldImageUrl { get; set; } = string.Empty;
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+            await GetProducts();
+    }
+    private async Task GetProducts()
+    {
+        IsLoading = true;
+        StateHasChanged();
+        tilte = "Create";
+
+        if (Id != 0)
+        {
+            tilte = "Edit";
+            product = await ProductRepo.Get(Id);
+            OldImageUrl = product.ImageUrl;
+        }
+
+        categories = await CategoryRepo.GetAll();
+        IsLoading = false;
+        StateHasChanged();
+    }
+    private async Task UpsertProductDBO()
+    {
+        if (Id != 0)
+            product = await ProductRepo.Update(product);
+        else
+            product = await ProductRepo.Create(product);
+
+        if(product != null)
+        {
+            await JSRuntime.SetSuccessFulMessageToastr("Operation was successfull", "Success", 500);
+            _navmanage.NavigateTo("/Product/Index");
+        }
+        else
+            await JSRuntime.SetErrorFulMessage("Operation Failed", "Error", 500);
+
+    }
+    private async Task HandelFileUpload(InputFileChangeEventArgs fileArg)
+    {
+        try
+        {
+            IsLoading = true;
+            if (fileArg.GetMultipleFiles().Count()>0)
+            {
+                foreach (var file in fileArg.GetMultipleFiles())
+                {
+                    System.IO.FileInfo fileInfo = new(file.Name);
+                    if (fileInfo.Extension.ToLower() == ".jpg" ||
+                        fileInfo.Extension.ToLower() == ".png" ||
+                        fileInfo.Extension.ToLower() == ".jpeg")
+                    {
+                        product.ImageUrl = await FileService.UploadFile(file);
+                        if (product.ImageUrl != OldImageUrl && OldImageUrl != "/img/default.png")
+                        {
+                            FileService.DeleteFile(OldImageUrl);
+                        }
+                    }
+                    else
+                    {
+                        await JSRuntime.SetErrorFulMessageSA("Image type must be jpg/png/jpeg ", "Error", 500);
+                        return;
+                    }
+                }
+            }
+
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.SetErrorFulMessageSA(ex.Message, "Error", 5000);
+        }
+        finally
+        {
+            IsLoading = false;
+        }
+    }
+}

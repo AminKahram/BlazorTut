@@ -14,10 +14,10 @@
    
 </_ChildComponent>
 <div class="row">
-    <button class="btn btn-success" @onclick="() => ChildComponent.SetSuccessFulAlert()">
+    <button class="btn btn-success" @onclick="() => ChildComponent?.SetSuccessFulAlert()!">
         Alert Sucess
     </button>
-    <button class="btn btn-danger" @onclick="() => ChildComponent.SetErrorFulAlert()">
+    <button class="btn btn-danger" @onclick="() => ChildComponent?.SetErrorFulAlert()!">
         Alert Error
     </button>
 </div>
@@ -29,7 +29,7 @@
     {
         Massage = "This is message to show void event call back";
     }
-    _ChildComponent ChildComponent;
+    _ChildComponent? ChildComponent;
     public string CascadingMassage = "This is a test cascading message";
     public string LuckyNumber = "Lucky Number is 7";
     public Dictionary<string, object> ParentTextInputAttributes { get; set; } = new Dictionary<string, object>()

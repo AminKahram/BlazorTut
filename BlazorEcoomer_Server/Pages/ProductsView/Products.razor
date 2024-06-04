@@ -36,7 +36,7 @@
         @if (!string.IsNullOrEmpty(SelectedProperty))
         {
             <p>Selected Property : @SelectedProperty </p>
-            <p>Selected Property Value : @Product.ProductsProps.FirstOrDefault(p => p.Key == SelectedProperty).Value </p>
+            <p>Selected Property Value : @Product.ProductsProps.FirstOrDefault(p => p.Key == SelectedProperty)?.Value </p>
         }
     </div>
 </div>
@@ -91,7 +91,7 @@
 
 @code {
     public string SelectedProperty = "";
-    Product Product = new()
+    ProductTestComp Product = new()
         {
             ID = 1,
             Name = "TesterProduct 1",
@@ -118,10 +118,10 @@
                 },
             }
         };
-    List<Product> lstProduct = new();
+    List<ProductTestComp> lstProduct = new();
     protected override async Task OnInitializedAsync()
     {
-        lstProduct.Add(new Product
+        lstProduct.Add(new ProductTestComp
             {
                 ID = 1,
                 Name = "TesterProduct 2",
@@ -148,7 +148,7 @@
                     },
                 }
             });
-        lstProduct.Add(new Product
+        lstProduct.Add(new ProductTestComp
             {
                 ID = 1,
                 Name = "TesterProduct 1",

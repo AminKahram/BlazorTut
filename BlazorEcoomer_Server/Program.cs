@@ -1,4 +1,6 @@
 using BlazorEcoomer_Server.Data;
+using BlazorEcoomer_Server.Services;
+using BlazorEcoomer_Server.Services.Implement;
 using Ecommers.Business.Repository;
 using Ecommers.Business.Repository.IRepository;
 using Ecommers_DataAccess;
@@ -13,6 +15,8 @@ builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddDbContext<ApplicationDataAccess>(options => 
     options.UseSqlServer(builder.Configuration.GetConnectionString("Ecommers")));
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IFileService, FileService>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());   
 
 var app = builder.Build();

@@ -1,9 +1,9 @@
 ﻿<div class="col-auto border p-3" @onclick="@(e => ChangeSelectedProductName(product.Name))">
-    <h4>@product.ID</h4>
-    Name : @product.Name<br />
+    <h4>@product?.ID</h4>
+    Name : @product?.Name<br />
     Parent render fragment Content : @ParentContent<br />
-    Show Properties : <input type="checkbox" @bind="product.IsActive" /><br />
-    <input type="checkbox" @onchange="ChangeFavoriteProductCount"/> Add to favorite<br />
+    Show Properties : <input type="checkbox" @bind="product!.IsActive" /><br />
+    <input type="checkbox" @onchange="(args) => ChangeFavoriteProductCount(args)"/> Add to favorite<br />
     @if (product.IsActive)
     {
         foreach (var prodProp in product.ProductsProps)
@@ -16,21 +16,19 @@
 
 @code {
     [Parameter]
-    public Product product { set; get; }
+    public ProductTestComp? product { set; get; }
     [Parameter]
     public EventCallback<bool> FavoriteProductUpdate { get; set; }
     [Parameter]
     public EventCallback<string> ProductNameUpdate { get; set; }
     [Parameter]
-    public RenderFragment ParentContent { get; set; }
+    public RenderFragment? ParentContent { get; set; }
 
     protected async Task ChangeSelectedProductName(string productName/* MouseEventArgs e */)
     {
         await ProductNameUpdate.InvokeAsync(productName);
     }
-    protected async Task ChangeFavoriteProductCount(ChangeEventArgs e)
-    {
-       await FavoriteProductUpdate.InvokeAsync((bool)e.Value);
-    }
+    protected async Task ChangeFavoriteProductCount(ChangeEventArgs e) 
+        => await FavoriteProductUpdate.InvokeAsync((bool)e.Value!);
 }
  

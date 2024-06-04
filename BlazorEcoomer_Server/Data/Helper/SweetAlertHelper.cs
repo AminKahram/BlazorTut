@@ -12,8 +12,8 @@ public static class SweetAlertHelper
     {
         await jSRuntime.InvokeVoidAsync("ShowSwal", "error", message, title, timeOut);
     }
-    public static async Task<bool> SetConfirmSA(this IJSRuntime jSRuntime, string message, string resultText)
+    public static async Task<bool> SetConfirmSA(this IJSRuntime jSRuntime)
     {
-        return await jSRuntime.InvokeAsync<bool>("ConfirmSwal", message, resultText);
+        return await jSRuntime.InvokeAsync<bool>("ConfirmSwal");
     }
 }

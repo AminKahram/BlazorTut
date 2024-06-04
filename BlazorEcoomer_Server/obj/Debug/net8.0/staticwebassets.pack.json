@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\BlazorEcoomer_Server.bundle.scp.css"
     },
     {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\css\\CommonCSS\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\css\\CommonCSS\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\css\\CommonCSS\\toastr.min.css",
+      "PackagePath": "staticwebassets\\css\\CommonCSS\\toastr.min.css"
+    },
+    {
       "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -57,12 +65,44 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Default.png",
+      "PackagePath": "staticwebassets\\img\\Default.png"
+    },
+    {
       "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Gear.gif",
       "PackagePath": "staticwebassets\\img\\Gear.gif"
     },
     {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Product\\23d54fda-8900-4e7a-95c8-f899cac33d54.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\23d54fda-8900-4e7a-95c8-f899cac33d54.jpg"
+    },
+    {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Product\\54df2bbc-b72d-4150-a788-52dd973043d2.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\54df2bbc-b72d-4150-a788-52dd973043d2.jpg"
+    },
+    {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Product\\5df43709-c024-411f-9608-9cad86bcdb41.png",
+      "PackagePath": "staticwebassets\\img\\Product\\5df43709-c024-411f-9608-9cad86bcdb41.png"
+    },
+    {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\img\\Product\\8db92f86-6411-48b6-9e46-cfcea2046adc.png",
+      "PackagePath": "staticwebassets\\img\\Product\\8db92f86-6411-48b6-9e46-cfcea2046adc.png"
+    },
+    {
       "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\Common.js",
       "PackagePath": "staticwebassets\\js\\Common.js"
+    },
+    {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\CommonJS\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\js\\CommonJS\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\CommonJS\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\js\\CommonJS\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\Rezomeh\\Blazor\\BlazorEcommer\\BlazorEcoomer_Server\\wwwroot\\js\\CommonJS\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\CommonJS\\toastr.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorEcoomer_Server.Microsoft.AspNetCore.StaticWebAssets.props",

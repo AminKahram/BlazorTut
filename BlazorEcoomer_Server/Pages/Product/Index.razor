@@ -1,0 +1,124 @@
+﻿@page "/Product/Index"
+@inject IProductRepository ProductRepo
+@inject IJSRuntime JSRuntime;
+@inject IFileService FileService
+
+<div class="row mt-4">
+    <div class="col">
+        @if (products.Any())
+        {
+            <table class="table table-bordered table-hover table-striped ">
+                <thead>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Customer Favorites</th>
+                <th>Show Favorites</th>
+                <th>Category Name</th>
+                <th>Color</th>
+                <th>Description</th>
+                <th>ImageUrl</th>
+                <th></th>
+                </thead>
+                <tbody>
+                    @foreach (var prod in products)
+                    {
+                        <tr>
+                            <td>
+                                @prod.ID
+                            </td>
+                            <td>
+                                @prod.Name
+                            </td>
+                            <td>
+                                <input type="checkbox" @bind=prod.CustomerFavorites readonly />
+                            </td>
+                            <td>
+                                <input type="checkbox" @bind=prod.ShowFavorites readonly />
+                            </td>
+                            <td>
+                                @prod.Category.Name
+                            </td>
+                            <td>
+                                @prod.Color
+                            </td>
+                            <td>
+                                @prod.Description
+                            </td>
+                            <td>
+                                @prod.ImageUrl
+                            </td>
+                            <td>
+                                <NavLink class="btn btn-warning" href=@($"/Product/edit/{prod.ID}")>Edit</NavLink>
+                                <button class="btn btn-danger" @onclick="() => RemoveProduct(prod.ID)">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            if (IsLoading)
+            {
+                <div class="align-content-center text-center">
+                    <img src="/img/Gear.gif" />
+                </div>
+            }
+            else
+            {
+                <p>There is no content to show.</p>
+            }
+        }
+
+    </div>
+    <div class="col">
+        <a class="btn btn-primary form-control" href="/Product/add">
+            Add
+        </a>
+    </div>
+
+</div>
+
+@code {
+    private IEnumerable<ProductDTO> products { get; set; } = new List<ProductDTO>();
+    bool IsLoading { set; get; }
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+            await GetProducts();
+    }
+    private async Task GetProducts()
+    {
+        IsLoading = true;
+        StateHasChanged();
+        products = await ProductRepo.GetAll();
+        IsLoading = false;
+        StateHasChanged();
+
+    }
+    private async Task RemoveProduct(int id)
+    {
+        bool DeleteConfirm = await JSRuntime.SetConfirmSA();
+        if (DeleteConfirm)
+        {
+            ProductDTO product = await ProductRepo.Get(id);
+            bool result = await ProductRepo.Delete(id);
+            if (result)
+            {
+                await JSRuntime.SetSuccessFulMessageToastr("Operation was successfull", "Success", 500);
+                await GetProducts();
+                if (product.ImageUrl != "/img/default.png")
+                {
+                    result = FileService.DeleteFile(product.ImageUrl);
+                    if (result)
+                        await JSRuntime.SetSuccessFulMessageToastr("Image Removed successfully", "Success", 500);
+                    else
+                        await JSRuntime.SetErrorFulMessageSA("Image failed to remove", "Error", 500);
+                }
+            }
+            else
+                await JSRuntime.SetErrorFulMessageSA("Product failed to remove", "Error", 500);
+        }
+
+    }
+}

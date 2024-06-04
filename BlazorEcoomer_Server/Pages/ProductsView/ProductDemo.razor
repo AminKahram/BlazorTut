@@ -16,12 +16,12 @@
 </div>
 
 @code {
-    List<Product> lstProduct = new();
+    List<ProductTestComp> lstProduct = new();
     public int selectedFavoriteProduct { get; set; } = 0;
-    public string selectedProduct { get; set; }
+    public string selectedProduct { get; set; } = string.Empty;
     protected override async Task OnInitializedAsync()
     {
-        lstProduct.Add(new Product
+        lstProduct.Add(new ProductTestComp
             {
                 ID = 1,
                 Name = "TesterProduct 2",
@@ -48,7 +48,7 @@
                     },
                 }
             });
-        lstProduct.Add(new Product
+        lstProduct.Add(new ProductTestComp
             {
                 ID = 1,
                 Name = "TesterProduct 1",

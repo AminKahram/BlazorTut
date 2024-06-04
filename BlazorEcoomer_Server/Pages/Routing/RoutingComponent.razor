@@ -20,17 +20,17 @@
     [Parameter]
     public int parameter1 { get; set; }
     [Parameter]
-    public string parameter2 { get; set; }
+    public string parameter2 { get; set; } = string.Empty;
 
-    public string param1 { get; set; }
-    public string param2 { get; set; }
+    public string param1 { get; set; } = string.Empty;
+    public string param2 { get; set; } = string.Empty;
 
     private void LoadParameters()
     {
         var url = new Uri(_NavigateionManager.Uri);
         var query = System.Web.HttpUtility.ParseQueryString(url.Query);
-        param1 = query["param1"];
-        param2 = query["param2"];
+        param1 = query["param1"] ?? "";
+        param2 = query["param2"] ?? "";
     }
     private void NavigateToURlWithnavigatorManager()
     {
